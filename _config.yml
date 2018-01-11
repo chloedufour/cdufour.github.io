@@ -1,2 +1,3 @@
 name: Chloe Dufour
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
