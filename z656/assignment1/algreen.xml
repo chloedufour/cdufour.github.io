@@ -50,7 +50,7 @@
           <title>How Can You Mend A Broken Heart</title>
           <credits>
             <person>B. Gibb</person>
-            <person>R. Gibb/person>
+            <person>R. Gibb</person>
             <company>BMI</company>
           </credits>
         </track>
@@ -113,7 +113,7 @@
         <person>Al Green</person>
       </producers>
       <engineer type="person">Willie Mitchell</engineer>
-      <remixengineer type="person">Willie Mitchell</engineer>
+      <remixengineer type="person">Willie Mitchell</remixengineer>
       <vocalbkgrnd>
         <person>Rhodes</person>
         <person>Chalmers</person>
@@ -127,20 +127,20 @@
         <group>The Memphis Strings</group>
       </section>
       <section type="horn">
-        <musician instrument="trumpet">Wayne Jackson</musician>
-        <musician instrument="tenor">Andrew Love</musician>
-        <musician instrument="tenor">Ed Logan</musician>
-        <musician instrument="baritone sax">James Mitchell</musician>
-        <musician instrument="trombone">Jack Hole</musician>
+        <person instrument="trumpet">Wayne Jackson</person>
+        <person instrument="tenor">Andrew Love</person>
+        <person instrument="tenor">Ed Logan</person>
+        <person instrument="baritone sax">James Mitchell</person>
+        <person instrument="trombone">Jack Hole</person>
       </section>
       <section type="rhythm">
-        <musician instrument="drums">Howard Grimes</musician>
-        <musician instrument="drums">Al Jackson</musician>
-        <musician instrument="bass">Leroy Hodges</musician>
-        <musician instrument="piano/organ">Charles Hodges</musician>
-        <musician instrument="guitar">Teenie Hodges</musician>
-        <musician instrument="piano">Archie Turner</musician>
-        <musician instrument="piano">Michael Allen</musician>
+        <person instrument="drums">Howard Grimes</person>
+        <person instrument="drums">Al Jackson</person>
+        <person instrument="bass">Leroy Hodges</person>
+        <person instrument="piano/organ">Charles Hodges</person>
+        <person instrument="guitar">Teenie Hodges</person>
+        <person instrument="piano">Archie Turner</person>
+        <person instrument="piano">Michael Allen</person>
      </section>
     <studio>
       <studioname>Royal Recording Studios</studioname>
