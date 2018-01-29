@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT albumart (spine+, back)>
+
+<!ELEMENT spine (title, discformats+)>
+<!ELEMENT discformats (format*)>
+<!ELEMENT format (#PCDATA)>
+<!ATTLIST format type CDATA #IMPLIED>
+
+<!ELEMENT back (tracklisting+, discformats+, credits+, discinfo+)>
+
+<!ELEMENT tracklisting (track+)>
+<!ELEMENT track (title+, credits+)>
+<!ELEMENT credits (person+, company, producers+, engineer+, remixengineer+,vocalbkgrnd+, stringarr+, section+, studio+)>
+<!ELEMENT producers (person+)>
+<!ATTLIST engineer type CDATA #IMPLIED>
+<!ATTLIST remixengineer type CDATA #IMPLIED>
+<!ELEMENT vocalbkgrnd (person+)>
+<!ELEMENT stringarr (person+)>
+<!ELEMENT section (group, person+)>
+<!ATTLIST section type CDATA #IMPLIED>
+<!ELEMENT studio (studioname, location)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT person (#PCDATA)>
+<!ATTLIST person instrument CDATA #IMPLIED>
+<!ELEMENT company (#PCDATA)>
+<!ELEMENT discinfor (#PCDATA)>
+<!ELEMENT group (#PCDATA)>
+<!ELEMENT studioname (#PCDATA)>
+<!ELEMENT location (#PCDATA)> 
+
