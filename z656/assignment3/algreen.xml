@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE albumart SYSTEM "cover.dtd">
+<albumart>
+    <spine>
+        <title>Al Green's Greatest Hits</title>
+        <discformats>
+            <format type="logo">QQCC</format> <!--or QCQC, unclear-->
+            <format type="logo">DVD</format>
+            <format type="logo">MLP Lossless</format>
+            <format type="logo">Dolby Digital</format>
+            <format type="logo">DTS Digital Surround 95/24</format>
+            <format type="logo">DVD Video</format>
+        </discformats>
+    </spine>
+    
+    <back>
+        <tracklisting>
+            <track>
+                <title>Tired of Being Alone</title>
+                <credits>
+                    <person>A. Green</person>
+                    <company>BMI</company>
+                </credits>
+            </track>
+            <track>
+                <title>Call Me (Come Back Home)</title>
+                <credits>
+                    <person>A. Green</person>
+                    <person>W. Mitchell</person>
+                    <person>A. Jackson</person>
+                    <company>BMI</company>
+                </credits>
+            </track>
+            <track>
+                <title>I'm Still In Love With You</title>
+                <credits>
+                    <person>A. Green</person>
+                    <person>M. Hodges</person>
+                    <company>BMI</company>
+                </credits>
+            </track>
+            <track>
+                <title>Here I Am (Come And Take Me)</title>
+                <credits>
+                    <person>A. Green</person>
+                    <person>M. Hodges</person>
+                    <company>BMI</company>
+                </credits>
+            </track>
+            <track>
+                <title>How Can You Mend A Broken Heart</title>
+                <credits>
+                    <person>B. Gibb</person>
+                    <person>R. Gibb</person>
+                        <company>BMI</company>
+                </credits>
+            </track>
+            <track>
+                <title>Let's Stay Together</title>
+                <credits>
+                    <person>A. Green</person>
+                    <person>W. Mitchell</person>
+                    <person>A. Jackson</person>
+                    <company>BMI</company>
+                </credits>
+            </track>
+            <track>
+                <title>I Can't Get Next To You</title>
+                <credits>
+                    <person>Whitfield</person>
+                    <person>Strong</person>
+                    <company>ASCAP</company>
+                </credits>
+            </track>
+            <track>
+                <title>You Ought To Be With Me</title>
+                <credits>
+                    <person>A. Green</person>
+                    <person>W. Mitchell</person>
+                    <person>A. Jackson</person>
+                    <company>BMI</company>
+                </credits>
+            </track>
+            <track>
+                <title>Look What You Done For Me</title>
+                <credits>
+                    <person>A. Green</person>
+                    <person>W. Mitchell</person>
+                    <person>A. Jackson</person>
+                    <company>BMI</company>
+                </credits>
+            </track>
+            <track>
+                <title>Let's Get Married</title>
+                <credits>
+                    <person>A. Green</person>
+                    <company>BMI</company>
+                </credits>
+            </track>
+        </tracklisting>
+        
+        <discformats>
+            <format type="logo">QQCC</format> <!--or QCQC, unclear-->
+            <format type="logo">DVD</format>
+            <format type="logo">MLP Lossless</format>
+            <format type="logo">Dolby Digital</format>
+            <format type="logo">DTS Digital Surround 95/24</format>
+            <format type="logo">DVD Video</format>
+        </discformats>
+        
+        <credits>
+            <producers>
+                <person>Willie Mitchell</person>
+                <person>Al Green</person>
+            </producers>
+            <engineer type="person">Willie Mitchell</engineer>
+            <remixengineer type="person">Willie Mitchell</remixengineer>
+                <vocalbkgrnd>
+                    <person>Rhodes</person>
+                    <person>Chalmers</person>
+                    <person>Rhodes</person>
+                </vocalbkgrnd>
+                <stringarr>
+                    <person>James Mitchell</person>
+                    <person>Charles Chalmers</person>
+                </stringarr>
+                <section type="string">
+                    <group>The Memphis Strings</group>
+                </section>
+                <section type="horn">
+                    <person instrument="trumpet">Wayne Jackson</person>
+                    <person instrument="tenor">Andrew Love</person>
+                    <musician instrument="tenor">Ed Logan</musician>
+                    <musician instrument="baritone sax">James Mitchell</musician>
+                    <musician instrument="trombone">Jack Hole</musician>
+                </section>
+                <section type="rhythm">
+                    <person instrument="drums">Howard Grimes</person>
+                    <person instrument="drums">Al Jackson</person>
+                    <person instrument="bass">Leroy Hodges</person>
+                    <person instrument="piano/organ">Charles Hodges</person>
+                    <person instrument="guitar">Teenie Hodges</person>
+                    <person instrument="piano">Archie Turner</person>
+                    <person instrument="piano">Michael Allen</person>
+                </section>
+                <studio>
+                    <studioname>Royal Recording Studios</studioname>
+                    <location>Memphis, TN</location>
+                </studio>
+        </credits>
+        <discinfo>This disc contains the original quadraphonic mixes from a 7.5 I.P.S Quad Reel Source</discinfo>
+    </back>
+</albumart>
