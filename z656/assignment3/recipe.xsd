@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" vc:minVersion="1.0" vc:maxVersion="1.1"> 
+
+<xs:element name="name">
+    <xs:complexType>
+        <xs:simpleContent>
+            <xs:extension base="xs:string"/>
+        </xs:simpleContent>
+    </xs:complexType>
+</xs:element>
+
+<xs:element name="amount">
+    <xs:complexType>
+        <xs:simpleContent>
+            <xs:extension base="xs:integer">
+               <xs:attribute name="type" type="xs:string"/> 
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+</xs:element>
+
+<xs:element name="ingredient">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element ref="amount"/>
+            <xs:element ref="name"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
+
+<xs:element name="recipe">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="ingredientlist">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element ref="ingredient"/>
+                    </xs:sequence> 
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="instructions">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="step" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
+
+</xs:schema>
