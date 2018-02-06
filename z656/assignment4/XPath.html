@@ -1,1 +1,48 @@
-
+---
+layout: default
+title: ILS-Z656
+---
+<ol>
+<li>How would you isolate the ID number of this encoded text (VAA4025-109-1-a16)?</li>
+  <ul>
+  <li>//div/@id</li>
+  </ul>
+<li>How many lists are in the article text?</li>
+  <ul>
+  <li>1</li>
+  <li>count(//div/list)</li>
+  </ul>
+<li>How would you isolate the copyright statement (Copyright 2013 Trustees of Indiana University)?</li>
+  <ul>
+  <li>//publicationStmt/availability/p[contains(., "Copyright")]</li>
+  </ul>
+<li>What are two different ways to isolate the publisher and pubPlace elements together (Indiana University Libraries Bloomington, IN)?</li>
+  <ol>
+    <li>/TEI.2/teiHeader/fileDesc/publicationStmt/*[position()<3]</li>
+    <li>/TEI.2/teiHeader/fileDesc/publicationStmt/publisher|//publicationStmt/pubPlace</li>
+  </ol>
+<li>How many paragraphs are in the text of this article?</li>
+  <ul>
+    <li>34</li>
+    <li>count(/TEI.2/text//p)</li>
+  </ul>
+<li>What different states are mentioned in the text?</li>
+  <ul>
+    <li>Indiana, Ohio, South Carolina, Kentucky, Arkansas, North Carolina</li>
+    <li>/TEI.2/text//region[@type="state"]</li>
+  </ul>
+<li>How many distinct cities are mentioned in the text? Hint: use distinct-values()</li>
+  <ul>
+    <li>25</li>
+    <li>count(/TEI.2/text/distinct-values(//settlement[@type="city"]))</li>
+  </ul>
+<li>How many times does “Evansville” appear in this article? Hint: use ctrl+F to check your work</li>
+  <ul>
+    <li>2</li>
+    <li>count(/TEI.2/text//p[contains(., "Evansville")])</li>
+  </ul>
+<li>What’s your best guess for how to figure out how many book reviews there are in this article using XPath alone?</li>
+  <ul>
+  <li>count(/TEI.2/text/body/div/p/hi[@rend="i"])</li>
+  </ul>
+</ol>
