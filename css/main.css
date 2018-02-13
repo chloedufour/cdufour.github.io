@@ -1,3 +1,19 @@
+@font-face {
+    font-family: GrandHotel;
+    src: url(GrandHotel-Regular.otf);
+    font-family: PFD-BlackItalic;
+    src: url(PlayfairDisplay-BlackItalic.otf);
+    font-family: PFD-Bold;
+    src: url(PlayfairDisplay-Bold.otf);
+    font-weight: bold;
+    
+    font-family: PFD-Italic;
+    src: url(PlayfairDisplay-Italic.otf);
+    font-family: PFD-Regular;
+    src: url(PlayfairDisplay-Regular.otf);
+    }
+    
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -40,4 +56,38 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+.plants {
+    font-family: GrandHotel;
+    font-size: 2em;
+    color: #006633;
+}
+
+h3 {
+    font-family: PFD-Bold;
+}
+
+h4 {
+    font-family: PFD-Italic;
+}
+
+p.zone {
+    font-family: PFD-Regular;
+    font-size: .5em;
+}
+
+p.light {
+    font-family: PFD-Regular;
+    font-size: .5em;
+}
+
+p.price {
+    font-family: PFD-Regular;
+    font-size: .5em;
+}
+
+p.availability {
+    font-family: PFD-Regular;
+    font-size: .5em;
 }
