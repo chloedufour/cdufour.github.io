@@ -8,20 +8,20 @@ h3 {
 
 dt {
   font-family: 'Nanum Myeongjo', serif;
+  font-size: 1em;
 }
 
 
 dd.date {
   font-family: 'Alegreya Sans', sans-serif;
   font-color: #29293d;
-  font-size: 2em;
+  
 }
 
 dd.degree {
   font-family: 'Alegreya Sans', sans-serif;
   font-color: #29293d;
   font-style: italic;
-  font-size: 2em;
 }
 
 dd.position {
