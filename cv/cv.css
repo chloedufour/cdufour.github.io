@@ -1,0 +1,38 @@
+h1 {
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+h3 {
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+dt {
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+
+dd.date {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-color: #29293d;
+  font-size: 2em;
+}
+
+dd.degree {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-color: #29293d;
+  font-style: italic;
+  font-size: 2em;
+}
+
+dd.position {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-color: #29293d;
+  font-style: italic;
+  font-size: 2em;
+}
+
+dd, li {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+
+
