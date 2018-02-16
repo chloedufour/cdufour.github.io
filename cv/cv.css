@@ -16,25 +16,26 @@ dt {
 
 
 dd.date {
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-color: #29293d;
   
 }
 
 dd.degree {
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-color: #29293d;
   font-style: italic;
 }
 
 dd.position {
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-color: #29293d;
   font-style: italic;
 }
 
 dd, li {
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: .85em;
 }
 
 nav ul, footer ul {
