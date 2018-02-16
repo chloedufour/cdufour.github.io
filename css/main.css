@@ -42,6 +42,10 @@ ul.posts li {
     list-style: none;
 }
 
+div {
+    font-family:'Josefin Sans', sans-serif;
+}
+
 h1.plants {
     font-family: 'Montserrat', sans-serif;
     font-size: 3em;
