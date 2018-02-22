@@ -71,3 +71,37 @@ dd {
     font-size: .85em;
 }
 
+h1.mlb {
+    font-family: 'Shrikhand', cursive;
+    color: #002266;
+}
+
+h2.mlb {
+    font-family: 'Shrikhand', cursive;
+    font-size: 1.5em;
+    color: #132639;
+    text-align: center;
+}
+
+p.mlb {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    color: #00264d;
+}
+
+table, th, td {
+   font-family: 'Fira Sans Condensed', sans-serif;
+   color: #ffffff;
+   border: 2px #002266;
+   padding: 10px;
+   text-align: center;
+}
+
+th {
+  font-style: italic;  
+}
+
+tr {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    color:  #ffffff;
+    background-color: #000080;
+}
