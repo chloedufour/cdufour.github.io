@@ -5,6 +5,10 @@
 	font-family: 'Ultra', serif;
 	font-family: 'Cormorant Garamond', serif;
 }
+body {
+	border: 10px;
+border-color:#990000;
+}
 
 dt {
 	font-family: 'Comorant Garamond', serif;
