@@ -27,7 +27,14 @@ h3{
 	font-style:italic;
 	}
 
-.tab {
+body {
+	font-family: 'Cormorant Garamond', serif;
+}
+li {
+	font-family: 'Cormorant Garamond', serif;
+}
+
+/*.tab {
     overflow: hidden;
     border: 1px solid #ccc;
     background-color: #f1f1f1;
@@ -61,4 +68,4 @@ h3{
     padding: 6px 12px;
     border: 1px solid #ccc;
     border-top: none;
-}
+*/
