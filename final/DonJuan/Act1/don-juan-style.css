@@ -6,6 +6,11 @@
 	font-family: 'Cormorant Garamond', serif;
 }
 
+body {
+	border: 10px;
+border-color:#990000;
+}
+
 dt {
 	font-family: 'Cormorant Garamond', serif;
 }
