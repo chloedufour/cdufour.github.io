@@ -1,0 +1,188 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>SCENE 5</title>
+      <link rel="stylesheet" type="text/css" href="don-juan-style.css">
+      <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond|PT+Serif" rel="stylesheet">
+   </head>
+   <body>
+   <div class="tab">
+  <button class="tablinks" onClick="openCity(event, 'enSCENE5')" id="defaultOpen">English</button>
+  <button class="tablinks" onClick="openCity(event, 'frSCÈNEVII')">French</button>
+</div>
+      <div id="enSCENE5" class="tabcontent">
+         
+         <h2>SCENE 5</h2>
+         
+         <h3>Don Juan, Sganarelle</h3> 
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd> 
+               And die as quickly as you can, it's the least you could do.  Every dog should have
+               its day, and it fills me with rage to see fathers who live as long as their sons.
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd> 
+               Ah!  Sir, you are wrong.
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd> 
+               I'm wrong?
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd> 
+               Sir
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd>, rising from his chair. 
+               I'm wrong?
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd> 
+               Yes, Sir, you are wrong to have suffered what he said to you and you should have thrown
+               him out on his ear.  Has anyone ever seen such impertinence?  For a father to come
+               and reproach his son, to tell him to correct his actions, to remember his birth, to
+               lead the life of an honorable man, and a hundred others stupidities of a like nature!
+               That it should be borne by a man like you, who knows how one must live!  I marvel
+               at your patience; and if I had been in your place, I would have sent him packing.
+               O evil complicity!  To what have you reduced me? 
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd> 
+               Is my dinner ready yet? 
+            </dd>
+         </dl>
+         
+      </div>
+      <div id="frSCÈNEVII" class="tabcontent">
+         
+         <h2>SCÈNE VII</h2>
+         
+         <h3>DON JUAN, SGANARELLE.</h3>
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd class="gesture">adressant encore la parole à son père, quoiqu'il soit sorti.</dd>
+            <dd>
+               
+               Eh! mourez le plus tôt que vous pourrez, c'est le mieux que vous
+               puissiez faire. Il faut que chacun ait son tour, et j'enrage de voir
+               des pères qui vivent autant que leurs fils.
+            </dd>
+         </dl>
+         
+         
+         <dd class="gesture">Il se met dans un fauteuil.</dd>
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd>
+               
+               Ah! monsieur, vous avez tort.
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd class="gesture"> se levant.</dd>
+            
+            <dd>
+               J'ai tort!
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd class="gesture"> tremblant.</dd>
+            <dd>
+               
+               Monsieur...
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd>
+               
+               J'ai tort!
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd>
+               
+               Oui, monsieur, vous avez tort d'avoir souffert ce qu'il vous a dit, et
+               vous le deviez mettre dehors par les épaules. A-t-on jamais rien vu de
+               plus impertinent? Un père venir faire des remontrances à son fils, et
+               lui dire de corriger ses actions, de se ressouvenir de sa naissance,
+               de mener une vie d'honnête homme, et cent autres sottises de pareille
+               nature! Cela se peut-il souffrir à un homme comme vous, qui savez comme
+               il faut vivre? J'admire votre patience, et, si j'avois été en votre
+               place, je l'aurois envoyé promener. (Bas, à part.) O complaisance
+               maudite! à quoi me réduis-tu?
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd>
+               
+               Me fera-t-on souper bientôt?
+            </dd>
+         </dl>
+         
+      </div>
+      <script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+   </body>
+</html>

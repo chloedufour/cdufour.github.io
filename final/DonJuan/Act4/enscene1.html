@@ -1,0 +1,149 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>SCENE 1</title>
+      <link rel="stylesheet" type="text/css" href="don-juan-style.css">
+      <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond|PT+Serif" rel="stylesheet">
+   </head>
+   <body>
+    <div class="tab">
+  <button class="tablinks" onClick="openCity(event, 'enSCENE1')" id="defaultOpen">English</button>
+  <button class="tablinks" onClick="openCity(event, 'frSCÈNEI')">French</button>
+</div>
+      <div id="enSCENE1" class="tabcontent">
+         
+         <h2>SCENE 1</h2>
+         
+         <h3>Don Juan, Sganarelle</h3> 
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd> 
+               In any case, let's leave it; it's a trifle, and we might have been tricked by a false
+               light or deceived by some mist.
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd> 
+               Eh!  Sir, stop trying to deny what we both saw with our own eyes. Nothing could have
+               been clearer than that sign of the head; and I don't doubt that Heaven, scandalized
+               by your life, has produced this miracle to convince you, and to tear you from
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd> 
+               Listen.  If don't stop pestering me with these idiot sermons, if you say the least
+               thing of this sort to me again, I will call a man, ask for a bull-whip, then have
+               you held by three or four others, and give you a thousand strokes. Do you understand?
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd> 
+               Entirely, Sir.  You've explained yourself well.  That's what's good about you, you
+               don't take detours, and say things with an admirable clarity.
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd> 
+               Let's go.  And have them bring dinner as early as possible.  A chair, my boy.
+            </dd>
+         </dl> 
+         
+      </div>
+       <div id="frSCÈNEI" class="tabcontent">
+         
+         <h2>SCÈNE I.</h2>
+         
+         <h3>DON JUAN, SGANARELLE, RAGOTIN.</h3>
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd class="gesture">à Sganarelle.</dd>
+            <dd>
+               
+               Quoi qu'il en soit, laissons cela; c'est une bagatelle, et nous pouvons
+               avoir été trompés par un faux jour, ou surpris de quelque vapeur qui
+               nous ait troublé la vue.
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd>
+               
+               Eh! monsieur, ne cherchez point à démentir ce que nous avons vu des
+               yeux que voilà. Il n'est rien de plus véritable que ce signe de tête;
+               et je ne doute point que le ciel, scandalisé de votre vie, n'ait
+               produit ce miracle pour vous convaincre, et pour vous retirer de...
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd>
+               
+               Écoute. Si tu m'importunes davantage de tes sottes moralités, si tu
+               me dis encore le moindre mot là-dessus, je vais appeler quelqu'un,
+               demander un nerf de bœuf, te faire tenir par trois ou quatre, et te
+               rouer de mille coups. M'entends-tu bien?
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd>
+               
+               Fort bien, monsieur, le mieux du monde. Vous vous expliquez clairement;
+               c'est ce qu'il y a de bon en vous, que vous n'allez point chercher de
+               détours: vous dites les choses avec une netteté admirable.
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd>
+               
+               Allons, qu'on me fasse souper le plus tôt que l'on pourra. Une chaise,
+               petit garçon.
+            </dd>
+         </dl>
+         
+      </div>
+      <script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+   </body>
+</html>

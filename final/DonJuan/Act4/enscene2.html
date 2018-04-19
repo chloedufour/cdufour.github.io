@@ -1,0 +1,143 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>SCENE 2</title>
+      <link rel="stylesheet" type="text/css" href="don-juan-style.css">
+      <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond|PT+Serif" rel="stylesheet">
+   </head>
+   <body>
+   <div class="tab">
+  <button class="tablinks" onClick="openCity(event, 'enSCENE2')" id="defaultOpen">English</button>
+  <button class="tablinks" onClick="openCity(event, 'frSCÈNEII')">French</button>
+</div>
+
+      <div id="enSCENE2" class="tabcontent">
+         
+         
+         <h2>SCENE 2</h2> 
+         
+         <h3>Don Juan, La Violette, Sganarelle</h3> 
+         
+         
+         <dl>
+            <dt>LA VIOLETTE</dt>
+            <dd> 
+               Sir, M. Dimanche, your provisioner, is here and asks to speak with you.
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd> 
+               Yes!  Just what we needed - a creditor.  Who does he think he is coming here to ask
+               for money?  I presume you told him that Sir is not here?
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>LA VIOLETTE</dt>
+            <dd> 
+               I told him so an hour ago; but he wouldn't believe me and sat down to wait.
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd> 
+               Let him wait as long as he likes.
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd> 
+               No, no, on the contrary, show him in.  It is a poor policy to hide from creditors.
+               It is better to pay them something, and I have the secret of sending them away satisfied
+               without giving them a sou. 
+            </dd>
+         </dl>
+         
+      </div>
+       <div id="frSCÈNEII" class="tabcontent">
+         
+         <h2>SCÈNE II.</h2>
+         
+         <h3>DON JUAN, SGANARELLE, LA VIOLETTE, RAGOTIN.</h3>
+         
+         
+         <dl>
+            <dt>LA VIOLETTE</dt>
+            <dd>.
+               
+               Monsieur, voilà votre marchand, monsieur Dimanche, qui demande à vous
+               parler.
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd>
+               
+               Bon! voilà ce qu'il nous faut, qu'un compliment de créancier. De
+               quoi s'avise-t-il de nous venir demander de l'argent? et que ne lui
+               disois-tu que monsieur n'y est pas?
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>LA VIOLETTE</dt>
+            <dd>.
+               
+               Il y a trois quarts d'heure que je lui dis; mais il ne veut pas le
+               croire, et s'est assis là dedans pour attendre.
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd>
+               
+               Qu'il attende tant qu'il voudra.
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd>
+               
+               Non, au contraire, faites-le entrer. C'est une fort mauvaise politique
+               que de se faire celer aux créanciers. Il est bon de les payer de
+               quelque chose; et j'ai le secret de les renvoyer satisfaits sans leur
+               donner un double.
+            </dd>
+         </dl>
+         
+      </div>
+      <script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+   </body>
+</html>
