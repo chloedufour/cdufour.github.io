@@ -1,0 +1,105 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>SCENE 4</title>
+      <link rel="stylesheet" type="text/css" href="don-juan-style.css">
+      <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond|PT+Serif" rel="stylesheet">
+   </head>
+   <body>
+   <div class="tab">
+  <button class="tablinks" onClick="openCity(event, 'enSCENE4')" id="defaultOpen">English</button>
+  <button class="tablinks" onClick="openCity(event, 'frSCÈNEIV')">French</button>
+</div>
+      <div id="enSCENE4" class="tabcontent">
+         
+         <h2>SCENE 4</h2> 
+         
+         <h3>Don Juan, Sganarelle.</h3> 
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd> 
+               Sir, what style are you taking now?  This is even worse than all the others, and I
+               would much rather see you as you were before.  I had always hoped for your salvation;
+               but now I must despair of it; and I believe that Heaven, which has put up with you
+               until now, will not at all stand for this most recent horror.
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd> 
+               Come on, now, Heaven is not as exacting as you think; and if all the faith that men
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd> 
+               Ah!  Sir, it is Heaven that speaks to you, and that is giving you advice.
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd> 
+               If Heaven is giving me advice, it should speak more clearly if it wants me to hear.
+               
+            </dd>
+         </dl>
+         
+      </div>
+      <div id="frSCÈNEIV" class="tabcontent">
+         
+         <h2>SCÈNE IV.</h2>
+         
+         <h3>DON JUAN, SGANARELLE.</h3>
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd>
+               
+               Monsieur, quel diable de style prenez-vous là? Ceci est bien pis que
+               le reste, et je vous aimerois bien mieux encore comme vous étiez
+               auparavant. J'espérois toujours de votre salut; mais c'est maintenant
+               que j'en désespère; et je crois que le ciel, qui vous a souffert
+               jusques ici, ne pourra souffrir du tout cette dernière horreur.
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd>
+               
+               Va, va, le ciel n'est pas si exact que tu penses; et, si toutes les
+               fois que les hommes...
+            </dd>
+         </dl>
+         
+      </div>
+      <script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+   </body>
+</html>

@@ -1,0 +1,190 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>SCENE 6</title>
+      <link rel="stylesheet" type="text/css" href="don-juan-style.css">
+      <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond|PT+Serif" rel="stylesheet">
+   </head>
+   <body>
+   <div class="tab">
+  <button class="tablinks" onClick="openCity(event, 'enSCENE6')" id="defaultOpen">English</button>
+  <button class="tablinks" onClick="openCity(event, 'frSCÈNEVI')">French</button>
+</div>
+      <div id="enSCENE6" class="tabcontent">
+         
+         <h2>SCENE 6</h2>
+         
+         <h3>The Statue, Don Juan, Sganarelle</h3> 
+         
+         
+         <dl>
+            <dt>THE STATUE</dt>
+            <dd> 
+               Halt, Don Juan; yesterday you gave your word to come dine with me.
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd> 
+               Yes.  Where to? 
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>THE STATUE</dt>
+            <dd> 
+               Give me your hand.
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd> 
+               There. 
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>THE STATUE</dt>
+            <dd> 
+               Don Juan, the hardening to a life of sin leads to a dismal death, and to reject the
+               grace of Heaven is to open a path to its lightning-bolts.
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd> 
+               O Heaven!  What do I feel?  An invisible fire burns me, I can move no more, and my
+               whole body is turning to a glowing coal.  Ah!
+            </dd>
+         </dl> 
+         
+         
+         
+         <dd class="gesture">Thunder resounds and great lightning-bolts surround Don Juan; the earth opens and
+            takes him; and he exits in the great flames burning where he has fallen.
+         </dd> 
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd> 
+               Ah!  My pay!  My pay!  Look at that, everyone satisfied with his death!  Offended
+               Heaven, violated laws, seduced daughters, dishonored families, outraged relatives,
+               mistreated women, husbands pushed to the limit, everyone is content: no one is miserable
+               but me, who, after so many years of service, have no other gratification than to see
+               with my own eyes the impiety of my master chastised by the most horrible punishment
+               in the world.  My pay!  My pay!  My pay!
+               
+            </dd>
+         </dl>
+         
+      </div>
+      <div id="frSCÈNEVI" class="tabcontent">
+         
+         <h2>SCÈNE VI.</h2>
+         
+         <h3>LA STATUE DU COMMANDEUR, DON JUAN, SGANARELLE.</h3>
+         
+         
+         <dl>
+            <dt>LA STATUE</dt>
+            <dd>
+               
+               Arrêtez, don Juan. Vous m'avez hier donné parole de venir manger avec
+               moi.
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd>
+               
+               Oui. Où faut-il aller?
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>LA STATUE</dt>
+            <dd>
+               
+               Donnez-moi la main.
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd>
+               
+               La voilà.
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>LA STATUE</dt>
+            <dd>
+               
+               Don Juan, l'endurcissement au péché trame une mort funeste, et les
+               grâces du ciel que l'on renvoie ouvrent un chemin à sa foudre.
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd>
+               
+               O ciel! que sens-je? un feu invisible me brûle, je n'en puis plus, et
+               tout mon corps devient un brasier ardent! Ah!
+            </dd>
+         </dl>
+         
+         
+         <dd class="gesture">Le tonnerre tombe avec un grand bruit et de grands éclairs sur don
+            Juan. La terre s'ouvre et l'abîme, et il sort de grands feux de
+            l'endroit où il est tombé.
+         </dd>
+         
+         <dl>
+            <dt>SGANARELLE.</dt>
+            <dd>
+               
+               Ah! mes gages! mes gages! Voilà, par sa mort, un chacun satisfait. Ciel
+               offensé, lois violées, filles séduites, familles déshonorées, parens
+               outragés, femmes mises à mal, maris poussés à bout, tout le monde est
+               content; il n'y a que moi seul de malheureux. Mes gages, mes gages, mes
+               gages!
+            </dd>
+         </dl>
+      </div>
+      <script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+   </body>
+</html>
