@@ -1,0 +1,145 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>SCENE 5.</title>
+      <link rel="stylesheet" type="text/css" href="don-juan-style.css">
+      <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond|PT+Serif" rel="stylesheet">
+   </head>
+   <body>
+   <div class="tab">
+  <button class="tablinks" onClick="openCity(event, 'enSCENE5')" id="defaultOpen">English</button>
+  <button class="tablinks" onClick="openCity(event, 'frSCÈNEV')">French</button>
+</div>
+      <div id="enSCENE5" class="tabcontent">
+         
+         <h2>SCENE 5.</h2> 
+         
+         <h3>Don Juan, La Ramée, Charlotte, Mathurine, Sganarelle</h3>
+         
+         
+         <dl>
+            <dt>LA RAMÉE</dt>
+            <dd>
+               Sir, I have come to warn you that this place is no longer safe for you.
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd> 
+               How so? 
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>LA RAMÉE</dt>
+            <dd> 
+               Twelve men on horseback are looking for you and might arrive here at any moment. 
+               I don't know how they have followed you; but I learned of it from a peasant they had
+               questioned.  Time presses, and the sooner you leave the better. 
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd class="gesture">to Charlotte and Mathurine.</dd> 
+            
+            <dd>An urgent affair obliges me to leave; but I beg you to remember the word that I have
+               given you, and to believe that you will hear from me before tomorrow night.  As the
+               party is not equal, I must resort to a stratagem, and deftly elude the misfortune
+               that seeks me.  Sganarelle, you shall put on my clothes, and for myself 
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd> 
+               Sir, you joke. To let me be killed in your clothes, and 
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd> 
+               Come quickly, I honor you too much, and happy is the valet who can gain the glory
+               of dying for his master.
+            </dd>
+         </dl> 
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd> 
+               I thank you kindly for such an honor, but Heavens! since it is a question of death,
+               do me the grace of not letting me be mistaken for another! 
+            </dd>
+         </dl>
+         
+      </div>
+      
+       <div id="frSCÈNEV" class="tabcontent">
+      
+         <h3>DON JUAN, RAGOTIN, CHARLOTTE, MATHURINE, SGANARELLE.</h3>
+         <dl>
+            <dt>RAGOTIN</dt>
+            <dd>
+               
+               Monsieur, voici une dame voilée qui vient vous parler.
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd>
+               
+               Que pourroit-ce être?
+            </dd>
+         </dl>
+         
+         
+         <dl>
+            <dt>SGANARELLE</dt>
+            <dd>
+               
+               Il faut voir.
+            </dd>
+         </dl>
+         
+         <dl>
+            <dt>DON JUAN</dt>
+            <dd class="gesture"> à Charlotte et à Mathurine.</dd>
+            
+            <dd>
+               Une affaire pressante m'oblige de partir d'ici; mais je vous prie de
+               vous ressouvenir de la parole que je vous ai donnée, et de croire que
+               vous aurez de mes nouvelles avant qu'il soit demain au soir.
+            </dd>
+         </dl>
+         
+      </div>
+      <script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+   </body>
+</html>
