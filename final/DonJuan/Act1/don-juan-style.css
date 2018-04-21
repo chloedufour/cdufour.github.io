@@ -6,6 +6,15 @@
 	font-family: 'Cormorant Garamond', serif;
 }
 
+.next {
+	text-align: right;
+	font-family: 'Cormorant Garamond', serif;
+}
+.prev {
+	text-align: left;
+	font-family: 'Cormorant Garamond', serif;
+}
+
 div {
 	border: 10px;
 border-color:#990000;
