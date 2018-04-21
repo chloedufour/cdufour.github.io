@@ -6,11 +6,11 @@
 	font-family: 'Cormorant Garamond', serif;
 }
 
-.next {
+a .next {
 	text-align: right;
 	font-family: 'Cormorant Garamond', serif;
 }
-.prev {
+a .prev {
 	text-align: left;
 	font-family: 'Cormorant Garamond', serif;
 }
