@@ -5,6 +5,14 @@
 	font-family: 'PT Serif', serif;
 	font-family: 'Cormorant Garamond', serif;
 }
+a .next {
+	text-align: right;
+	font-family: 'Cormorant Garamond', serif;
+}
+a .prev {
+	text-align: left;
+	font-family: 'Cormorant Garamond', serif;
+}
 
 dt {
 	font-family: 'Cormorant Garamond', serif;
