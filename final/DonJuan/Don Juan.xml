@@ -1,0 +1,2273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Don Juan</title>
+            <author>Moliere</author>
+            <editor>Brett Bodemer</editor>
+            <respStmt>
+                <resp>Encoded by</resp>
+                <name>Chloe Dufour</name>
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Digital Commons @ Cal Poly</publisher>
+            <pubPlace>San Luis Obispo, CA</pubPlace>
+            <date>2010</date>
+            <ptr target="http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1064&context=lib_fac"/>
+        </publicationStmt>
+    </fileDesc>
+</teiHeader>
+
+<text>
+<front>
+<castList>
+<head>CHARACTERS</head>
+ 
+<castItem>
+<role>DON JUAN</role>
+<roleDesc>son of Don Louis</roleDesc>
+</castItem>
+<castItem>
+<role>SGANARELLE</role>
+<roleDesc>valet of Don Juan</roleDesc>
+</castItem> 
+<castItem>
+<role>DONNA ELVIRA</role>
+<roleDesc>wife of Don Juan</roleDesc>
+</castItem>
+<castItem> 
+<role>GUSMAN</role>
+<roleDesc>horseman to Elvira</roleDesc>
+</castItem>
+<castItem> 
+<role>DON CARLOS</role>
+<roleDesc>brother of Elvira</roleDesc>
+</castItem> 
+<castItem>
+<role>DON ALONSE</role>
+<roleDesc>brother of Elvira</roleDesc>
+</castItem>
+<castItem> 
+<role>DON LOUIS</role>
+<roleDesc>father of Don Juan</roleDesc>
+</castItem>
+<castItem> 
+<role>BEGGAR</role> 
+</castItem>
+<castItem>
+<role>CHARLOTTE</role>
+<roleDesc>peasant-girl</roleDesc> 
+</castItem>
+<castItem>
+<role>MATHURINE</role>
+<roleDesc>peasant-girl</roleDesc>
+</castItem>
+<castItem> 
+<role>PIERROT</role>
+<roleDesc>peasant</roleDesc>
+</castItem>
+<castItem>
+<role>THE STATUE OF THE COMMANDER</role>
+</castItem>
+<castItem>
+<role>LA VIOLETTE</role>
+<roleDesc>a lackey of Don Juan</roleDesc> 
+</castItem>
+<castItem>
+<role>RAGOTIN</role>
+<roleDesc>a lackey of Don Juan</roleDesc>
+</castItem> 
+<castItem>
+<role>M. DIMANCHE</role>
+<roleDesc>merchant</roleDesc>
+</castItem>
+<castItem> 
+<role>LA RAMÉE</role>
+<roleDesc>swordsman</roleDesc>
+</castItem>
+<castItem>
+<role>ENTOURAGE OF DON JUAN</role>
+</castItem>
+<castItem>
+<role>ENTOURAGE OF DON CARLOS AND DON ALONSE</role>
+</castItem>
+<castItem> 
+<role>A GHOST</role>
+</castItem> 
+
+</castList>
+ 
+<set>Set in Sicily.</set>
+</front>
+ 
+<body> 
+<div type="act">
+<head>ACT I</head> 
+<stage type="setting">A palace.</stage> 
+ 
+<div type="scene">
+<head>SCENE 1</head>
+<stage>Sganarelle, Gusman</stage> 
+ 
+<sp>
+<speaker>SGANARELLE</speaker> <stage type="gesture">holding a snuffbox.</stage> 
+<p>No matter what Aristotle says with all his Philosophy, there's nothing like tobacco: it is the passion of respectable men; and the man who lives without tobacco is not worthy to live.  Not only does it replenish and relax the human brain, but it also instructs souls in virtue, for through it one learns how to become a sociable man.  Haven't you ever noticed how obliging someone becomes as soon as he has some tobacco? And how happy he is to hand it out left and right, wherever he might be?  Without even waiting to be asked, he anticipates the wishes of others: thus it is true that tobacco inspires sentiments of honor and virtue in those who use it.  But enough of this. Let's pick up where we left off. You say, my dear Gusman, that Donna Elvira, your mistress, surprised by our departure, set out across the countryside after us, and that her heart, which my master Don Juan has affected so deeply, could not live, you say, without seeking him here.  But between the two of us, may I tell you what I think?  I fear she will be badly paid for her love, that her journey to this city will produce little fruit, and that the two of you would have gained just as much by staying put.</p>
+</sp>
+
+<sp>
+<speaker>GUSMAN</speaker> 
+<p>But why?  Tell me, I beg you, Sganarelle, what prompts such a gloomy forecast?  Has your master opened his heart to you on this subject?  Did he tell you of some coldness toward us that has obliged him to leave?</p>
+</sp>
+ 
+<sp>
+<speaker>SGANARELLE</speaker>
+<p>No; but I have a general idea how things go with him; and though he has said nothing, I'll bet how this affair will end.  Of course it's possible I could be mistaken; but all in all, on such subjects, experience has given me precedents for this prediction.</p>
+</sp> 
+ 
+<sp>
+<speaker>GUSMAN</speaker> 
+<p>What?  Could it be that this unforeseen departure is due to an infidelity on the part of Don Juan?  Could he be capable of such an injury to Donna Elvira's chaste fires?</p>
+</sp> 
+ 
+<sp>
+<speaker>SGARARNELLE</speaker>
+<p>No, but he is still young, and does not have the heart.</p>
+</sp>
+ 
+<sp>
+<speaker>GUSMAN</speaker> 
+<p>Could a man of his quality commit an action so vile?</p>
+</sp> 
+ 
+ 
+<sp>
+<speaker>SGANARELLE</speaker>
+<p>Oh, yes, his quality!  That's vain reasoning, for it's by this quality that he holds himself above all things.</p>
+</sp>
+ 
+<sp>
+<speaker>GUSMAN</speaker> 
+<p>But he is bound by the holy ties of matrimony.</p>
+</sp> 
+
+<sp>
+<speaker>SGARARNELLE</speaker>
+<p>Ah!  My poor Gusman, my friend, you do not yet know, believe me, what kind of man this Don Juan is.</p>
+</sp>
+
+<sp> 
+<speaker>GUSMAN</speaker> 
+<p>I don't know, truly, what kind of man he could be, that he should commit this faithlessness to us.  I do not understand at all, how, after such effusions of love and impatience, after so many urgent tributes, vows, sighs, and tears, after so many passionate letters, ardent declarations and oaths, after so many transports, and finally, after so many fits, even to the forcing, in his passion, of the sacred obstacle of a convent, to put Donna Elvira in his power, I don't understand, I say, how, after all this, he could have the heart to fail his word.</p>
+</sp> 
+ 
+<sp>
+<speaker>SGARARNELLE</speaker>
+<p>For myself, it's not so hard to understand, and if you knew this pilgrim as I do you would see that it's easy enough for him.  I'm not saying that his feelings for Donna Elvira have changed, I have no certainty on that score.  But you know that he ordered me to leave first, and that since his arrival we have not spoken.  Still, as a warning, inter nos, I would teach you that you will find in Don Juan, my master, the greatest renegade that the earth has ever endured, a wild man, a dog, a devil, a Turk, a heretic, who does not believe in Heaven, Hell, or the Wolf-man, who disports in this life as a thoroughly brute beast, a pig of Epicurus, a true Sardanapalus, who closes his ears to all Christian remonstrances that one could make to him, and treats all that we believe as empty words.  You tell me that he has married your mistress: believe too that he will do much more for his passion than this, and that he would also marry you, your dog and your cat.  A marriage costs him nothing to contract; he uses no other traps for the lovelies, and blithely marries on all sides.  Lady, maiden, middle-class, peasant, he finds nothing either too hot or too cold; and I would tell you the names of all those he has married in various places, but that chapter would take until nightfall.  You are surprised and change color at these words; yet this is only a sketch of the character, and to finish the portrait I would need a lot of paint.  It's enough that the wrath of Heaven will overtake him some day; and that it would have been better for me to be the devil's servant than his, and that he has forced me to witness such horrors that I already wish him in another place.  But a great lord become an evil man is a terrible thing, and I must serve him faithfully, in spite of my misgivings. With me, fear me performs the office of zeal, makes me bite my tongue, and often reduces me to applauding what my soul detests.  But see, there he is, coming to take a walk in the palace: let's part.  Listen, I have made this confidence in all honesty, and it has poured rather quickly from my mouth; but if any of it should come to his ears, know that I will loudly say that you lie.</p>
+</sp>
+</div>
+  
+<div type="scene">
+<head>SCENE 2</head> 
+<stage>Don Juan, Sganarelle</stage>  
+ 
+<sp><speaker>DON JUAN</speaker>
+<p>Who were you just speaking to?  He looked a little like the good Gusman of Donna Elvira.</p> 
+</sp>
+ 
+<sp><speaker>SGARARNELLE</speaker>
+<p>More than a little, I'd say.</p>
+</sp>
+ 
+<sp><speaker>DON JUAN</speaker>
+<p>What?  It was he? </p>
+</sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Himself.</p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+How long has he been in this city? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Since last night. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And what business brings him here? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+I believe you can easily imagine what's bothering him. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p>  
+Our departure, no doubt? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+The good man is totally mortified by it, and wishes to know the cause. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And what did you tell him? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+That you had said nothing to me about it. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+But tell me, what are your thoughts on the subject?  What do you make of this affair? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+For myself, I believe, without prejudice to yourself, Sir, that you are pursuing some new love. </p></sp>
+<sp><speaker>DON JUAN</speaker><p> 
+You believe so?</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Yes. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And you're not wrong, no! And I avow to you that another object has chased Elvira from my thoughts.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+By God!  I know my Don Juan like the back of my hand, and that you have the heart of a predator, pouncing from meal to meal, never lingering for long.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And don't you find that I am right to use my heart in this way? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Sir! </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+What?  Speak. </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Of course you are right, because you wish it; one must not contradict you.  But if you did not wish it, that would be another thing altogether.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Ah, I see!  Well, then, I give you the liberty to speak and to tell me your feelings. </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+In that case, Sir, I would say honestly that I do not approve at all of your habits, and that I find it deplorable to love on all sides as you do. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+What?  You'd prefer that we'd bind ourselves forever to the first object that takes us, renounce the world for her, and never again have eyes for anyone else?  What vanity to want to preen oneself on the false honor of being faithful, to entomb ourselves forever in one passion, and to be dead from youth to all the other beauties that might strike our eyes!  No, no: constancy is only suitable for buffoons: all beautiful women have the right to charm us, and the advantage of being seen first should not steal from the others the just claims they have on our hearts.  I let beauty ravish me wherever I find it and yield easily to its sweet violence and to the places it leads us. I would be bound in vain; and the love I have for one beautiful woman does not oblige my soul to commit an injustice against the rest; I reserve the right of my eyes to see the merit of all, and to render to each the tributes obliged by nature.  Be that as it may, I cannot refuse my heart to any love-worthy object I see, and if I had ten thousand in my coffer, and a beautiful new face asked me for it, I would give it all.  After all, the first stirrings of love are charged with inexplicable charms, and all the pleasure of love subsists in change.  We taste an extreme sweetness in reducing, by a hundred tributes, the heart of a young beauty, to see from day to day the little progress that one makes there; to combat with transports, tears and sighs, the innocent shame of a soul to the point of rendering up its arms; to force, at close quarters, all the small resistances she puts up; to vanquish the scruples of which she makes an honor and to lead her softly to the place where we wish to make her come.  But let us be master once, nothing more is left to say or to wish; the beautiful part of passion is done, and we would sink into the tranquility of such a love, if some new object did not come to awaken our desires, and present to our heart the alluring charms of another conquest. There is nothing so sweet as to triumph over the resistance of a beautiful woman, and in this matter I have the ambition of conquerors, who march perpetually from victory to victory, and know no limits to their wishes.  There is nothing that can halt the impetuosity of my desires: I have a heart to love all the world; and like Alexander, I wish that there were other worlds, so I could march in and make my amorous conquests there as well. </p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Virtue of my life, how you declaim! You seem to have it memorized, and speak just like a book.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And what do you have to reply to all this?</p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+My faith!  I'd say ' I don't know what I'd say; because the way you put things makes you seem to be right; and yet it's true that you're wrong.  A moment ago, I had the clearest ideas in the world, but your speech just muddied them all up.  Let it be: another time I will put my thoughts in writing so I can argue with you.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+That would be well done. </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+But, Sir, does the liberty you've given me also let me tell you that I am not a little scandalized by the life that you lead?  </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Oh?  And what life exactly is it that I lead? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Good, good.  Well, for example, to see you marrying every month as you do </p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Could anything be more pleasant? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+I concede that it is very agreeable and entertaining, and I could even bring myself to accept it, if only there were no harm in it, but, Sir, to make light in this way of a sacred mystery, and </p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+That's enough.  It's an issue between Heaven and me, and we get along just fine without you bothering yourself about it. </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+My faith!  Sir, I've always heard it said that it's an evil mocking to mock Heaven, and that libertines never find a good end. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Hey!  Dr. Dunce Scotus!  I've made it clear before that I have no love for the makers of reproaches.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+I'm not speaking of you, God forbid.  You know what you are, and if you don't believe in anything, you have your reasons; but there are some other petty impertinents in this world, libertines without knowing why, who play the skeptic because they think it becomes them; and if I had a master like that, I would say quite clearly, looking him in the eye: 'Do you dare thus to play with Heaven, and do you not tremble to jeer as you do at the things that are most holy?  Is it your place, little worm, little termite that you are (I speak to this other master, as I said) is it really your place to try turning to jest what all men revere?  Do you think that because you are of quality, that because you have a blond and well-curled wig, feathers in your hat, a gilded coat, and ribbons the color of fire (it is not to you that I speak, it is to the other) do you think, I say, that you are so endowed that everything is permitted to you, and that one does not dare to tell you the truth?  Learn from me, who am your valet, that Heaven punishes sooner or later all the impious, and that an evil life leads to an evil death, and that </p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Peace! </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+What's the matter? </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+What's the matter is that I want to tell you that a new beauty has seized my heart, and I have pursued the trail of her charms to this city.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+But do you fear nothing, Sir, from the death of the commander that you killed here six months ago? </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+What's to fear?  Was he not well-killed? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Could not have been better done, and he would be wrong to complain of it. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+I had my right in this affair. </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Yes, but your right did not perhaps vanquish the resentment of his family and friends, and </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Oh!  Stop thinking about all the bad things that might happen; let's think only about what can give us pleasure.  The young woman I've told you about is a newlywed, the loveliest in the world, and came here with the man that she's just married.  By an act of chance I saw these lovers three or four hours before their voyage, and I have never before seen two people happier with each other or so bursting with love.  The visible tenderness of their mutual ardors moved me; heart-struck, my love was born out of jealousy.  Unable to bear seeing them so happy together, spite further aroused my desires, and I started delighting in devising ways to trouble this union which so tangibly offended the delicacy of my heart; until now my efforts have been of no use, but now I am about to resort to the last remedy.  This so-called husband plans to regale his mistress today with a walk by the sea.  Without telling you the details, everything has been readied to satisfy my love, and I have a small boat and some men, and the beauty will be abducted.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Sir! </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Eh? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+That's well done of you, and you must take what you want.  There's nothing in this world like making yourself happy.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Prepare to come with me, then, and be sure to carry my arms yourself, so that  (He sees Donna Elvira)  Ah!  Badly met!  Traitor, you didn't tell me that she was here, too. </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Sir, you didn't ask. </p></sp>
+ 
+<sp>
+<speaker>DON JUAN</speaker>
+<p>But is she crazy?  Arriving in the city while still dressed in her country clothes?</p>
+</sp> 
+</div>
+
+<div type="scene">
+<head>SCENE 3</head> 
+<stage>Donna Elvira, Don Juan, Sganarelle</stage>  
+ 
+<sp><speaker>DONNA ELVIRA</speaker><p> 
+Will you do me the grace, Don Juan, of acknowledging me?  Can I at least hope that you will condescend to turn your face this way? </p></sp>
+ 
+<sp>
+<speaker>DON JUAN</speaker>
+<p>Madame, I swear to you that I am surprised, and did not expect you here.</p>
+</sp> 
+ 
+<sp><speaker>DONNA ELVIRA</speaker><p> 
+Yes, I see very well that you did not expect me, and that, truly, you are surprised; but not in the way I had hoped; and your manner persuades me of the truth of what I had refused to believe.  I marvel at my simplicity and soft-heartedness in doubting a treason confirmed by so many appearances.  I was generous, I confess, or foolish, rather, in wanting to deceive myself, and in seeking to belie my eyes and judgment.  My tenderness sought to excuse the perceptible cooling of your feelings; and I forged a hundred legitimate causes of such a sudden departure, to justify the crime of which my reason accused you.  Each day, my just suspicions spoke to me, but in vain; I spurned their voices that rendered you criminal to my eyes, and listened instead with pleasure to the thousand ridiculous chimeras that painted you as innocent to my heart.  But this meeting permits of no more doubt, and the glance I just received from you teaches me more about it than words can say.  Yet I would still like to hear from your own mouth what reasons you can give for your departure.  Speak, Don Juan, I beg you, and let us see in what manner you dare justify yourself!  </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Madame, here is Sganarelle, who knows why I left. </p></sp>
+ 
+    <sp><speaker>SGANARELLE</speaker><stage type="gesture">softly to Don Juan.</stage> 
+        <p>Me, Sir?  I know nothing about it, if you please. </p></sp>
+ 
+<sp><speaker>DONNA ELVIRA</speaker><p> 
+Okay, then!  Sganarelle, speak.  It doesn't matter from whose mouth I hear it. </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker> <stage type="gesture">making a sign to Sganarelle to approach.</stage><p>
+Go ahead, speak to Madame. </p></sp>
+ 
+    <sp><speaker>SGANARELLE</speaker><stage type="gesture"> softly to Don Juan. </stage>
+        <p>What do you want me to say? </p></sp>
+ 
+<sp><speaker>DONNA ELVIRA</speaker><p> 
+Approach, since he so wishes it, and tell me something about the causes of this abrupt departure. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+You don't answer? </p></sp>
+ 
+    <sp><speaker>SGANARELLE</speaker><stage type="gesture">softly to Don Juan.</stage>
+        <p>I have nothing to say.  You're making fun of your servant. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Will you answer, I ask you? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Madame</p></sp>
+ 
+<sp><speaker>DONNA ELVIRA</speaker><p> 
+What? </p></sp>
+ 
+    <sp><speaker>SGANARELLE</speaker><stage type="gesture"> turning back towards his master. </stage>
+        <p>Sir</p></sp> 
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture"> in menacing him. </stage>
+        <p>If </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Madame, the conquerors, Alexander and the other worlds are the causes of our leaving.  That, Sir, is all I can say. </p></sp>
+ 
+<sp><speaker>DONNA ELVIRA</speaker><p> 
+Will you please, Don Juan, elucidate these beautiful mysteries for us? </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Madame, to tell you the truth </p></sp> 
+ 
+<sp><speaker>DONNA ELVIRA</speaker><p> 
+Ah!   For a man of the court you seem to know little how to defend yourself! You, who should be accustomed to this sort of thing!  I find your confusion pitiful.  Why do you not arm yourself with noble pretence?  Why not swear that your sentiments for me are unflinching, that you've always loved me with the same unparalleled ardor, and that nothing can part you from me except death?  Why not say to me that affairs of ultimate consequence have obliged you to leave without your telling me; that you must, against your wishes, stay here for some small indefinite time, and that I have only to return from whence I came, in the assurance that you will follow my steps as soon as possible; that you burn to rejoin me, and that separated from me, you suffer what a body suffers when severed from its soul?  This is how you should defend yourself, and not stutter and stammer as you do now. </p></sp> 
+ 
+ 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+I swear to you, Madame, that I wholly lack the talent of pretending, and that the heart I bear is sincere.  I will not declare to you that I have always held the same sentiments for you, and that I burn to rejoin you, since it is certain that I left only to flee from you; not at all for the reasons you have imagined, but from a pure motive of conscience, and for believing that I could no longer live with you without committing sin.  Some scruples, Madame, came to me, and opened the eyes of my soul to what I had done.  I reflected that, in order to marry you, I had violated the sacred enclosure of a convent, and that you, to marry me, had broken the vows engaging you elsewhere.  I reflected that Heaven was severely resentful of such things.  Repentance seized me, and with it, fear of the celestial wrath.  I believed that our marriage was but adultery in disguise, was drawing disgrace down to us from on high, and that I should try to forget you, and give you an honorable way to return to your first chains.  Would you, Madame, oppose such holy thoughts, and have me, in holding you, bear the weight of Heaven on my arms, that by</p></sp> 
+ 
+<sp><speaker>DONNA ELVIRA</speaker><p> 
+Ah, wretch!  Now I know you for who you really are; but to my misfortune, I've learned too late, when such knowledge can only make me despair.  But know that your crime will not go unpunished, and that the same Heaven of which you make so light will know how to revenge your perfidy. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Sganarelle, Heaven! </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Truly, yes, we laugh at that, we others. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Madame </p></sp> 
+ 
+<sp><speaker>DONNA ELVIRA</speaker><p> 
+That's enough.  I'll hear no more of it, and I fault myself for having listened to even this much.  It is sordid to wish to have one's shame aired in detail, and a noble heart, at the first such word, should take its leave.  Don't expect me to burst out here in reproaches and insults: no, no, I do not harbor the kind of wrath that exhausts itself in vain words, and its heat shall reserve itself for vengeance.  And I tell you again: Heaven will punish you, traitor, for the outrage that you've done me; and if Heaven can teach you nothing, know at least the fury of an outraged woman. </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+If only remorse could seize him! </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">after a quick reflection. </stage>
+        <p>Let's think now how to execute our next amorous enterprise. </p></sp>
+ 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Ah!  What an abominable master I am obliged to serve! </p></sp>
+</div>
+</div>
+ 
+<div type="act">
+    <head>ACT II </head>
+    <stage type="setting">In the countryside, by the seashore, and not far from the city.</stage>
+ 
+ 
+<div type="scene">
+    <head>SCENE 1</head>
+    <stage>Charlotte, Pierrot </stage>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Holy Mother of God, Pierrot, you came along at just the right time.</p></sp> 
+ 
+<sp><speaker>PIERROT</speaker><p> 
+By God, they were both only a hair's breadth from drowning! </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+What, did some squall this morning swoop by and churn up the seas? </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+Look, Charlotte, I'm going to tell you exactly how it happened; because, as they say, I was the first to spot them, I was.  So I was on the shore with Fat Lucas and we were fooling around with some lumps of tar that we were pitching at each other's heads; because, you know, fat Lucas loves to joke around, and me sometimes I like to horse around too.  And while we were throwing and dodging, since we were doing it there, I saw far off something that was squirming in the water, and headed our way in spurts.  I saw it clear as day, and then all of a sudden I didn't see anything at all.  'Eh!  Lucas,' I said, 'I think there are some men swimming over there.  'As sure as you've got tar in your eyes!' he said to me.  'By God,' I said to him, 'there's nothing wrong with my eyes: it was some men.'  'Naw' he said, 'it's tar!'  'You wanna bet,' I said, 'that there's no tar in my eyes and that there are two men,' I said, 'and that they're swimming this way?'  'By God,' he said, 'I'll bet there aren't!'  'Oh, yes! ' I said, 'I'll bet ten sols there are!'  'You bet I'll bet,' he said, and to prove it to me, said 'here's the stakes' and showed me his money.  Me, I'm no fool or stupid; I'm a good gambler and knew what I had to do, let who will deny it!  I brought out my money and we had no sooner made the bet and stuck our stakes together in a lump of tar, than we got a clear view of the two men, who were waving for us to come help; but first I had to pull my winnings out of the tar. Then I said  'Come on, Lucas, you can see they're waving; lets go quickly to help!'  'No way' he said, 'they made me lose my bet.'  At any rate, to make it short and get to the end, I pleaded with him and we got in a boat, and we made our way to them fast and then we pulled them from the water, and then we brought them back with us to a fire and then they stripped totally naked to dry themselves, and then two more of them showed up, who had saved themselves somehow, and then Mathurine stopped by, and one of the first two started making eyes at her.  So that, Charlotte, is exactly how it happened. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p>  
+Did you say, Pierrot, that one of them was more handsome and more finely built than the others? </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+Yes, that was the master.  He must be some really great big Sir, because his garments were threaded with gold from top to bottom, and I think even his servants must have been masters.  Yet all high Sir that he was, by my faith, he would have drowned, if I hadn't of come along. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Why not shine it on a little.  </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+O!  I swear to it, without us he would have been lucky to save his skin. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+And is he still at your house, Pierrot, dressed in nothing but that skin? </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+No, no.  They all got dressed right in front of us.  My God!  I've never seen anything like it! These grand Sirs of the court are buttoned up in more frills and bangles than you can imagine!  I would totally disappear in their clothes, and was struck stupid just to see it happen. God, Charlotte, their hair's not even attached to their head, and they button it on after everything else like a big filigree bonnet.  Their sleeves are so huge that the two of us could climb into one.  Instead of culottes they wear an overcoat that stretches from here to Rome; instead of a vest, they wear little sleeved shirts that barely cover the stomach; and instead of collars, a grand lace kerchief, with four great linen pompoms that drape over their stomachs.  They have little collars at the ends of their arms, and big funnels over their legs, and so many ribbons everywhere that they almost look like walking quilts.  They're so tied up and stuffed from top to bottom that if I dressed the way they did I'd break my neck for sure.</p></sp> 
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+On my faith, Pierrot, I want to get a look.</p></sp> 
+ 
+<sp><speaker>PIERROT</speaker><p> 
+Sure.  But first, listen, Charlotte: I have something else to say to you, I do. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Speak, then.  What is it? </p></sp>
+ 
+ 
+<sp><speaker>PIERROT</speaker><p> 
+You, see, Charlotte, I must, I have to, as they say, pour out my heart.  I love you, and you know it, and I want us to get married, but, I hate to say it, I am not at all satisfied with you. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+What?  What is it then? </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+Something troubling my mind. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+What?</p></sp> 
+ 
+<sp><speaker>PIERROT</speaker><p> 
+You don't love me. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Is that all? </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+That's all, but it's more than enough. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+My God, Pierrot, you're always saying the same old thing.</p> </sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+I'm always saying the same old thing, because it is always the same old thing; and if it wasn't always the same old thing, I would not always be telling you the same old thing. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+But what can I do?  What do you want? </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+What do you think?  I want you to love me. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Don't I love you? </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+No, you don't, though I've done everything I can to make you.  I've bought you, without grumbling, ribbons from every mercer who's passed; I've broken my neck to gather eagles' eggs; I've had fiddlers play for you on your birthday, but all this is just like beating my head against a wall.  You see, Charlotte, it is not fair or honest NOT to love those who love us.</p></sp> 
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+But, my pet, I do love you. </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+Yes; when it suits you. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+What would you have me do? </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+I would have you love me as one loves when one loves as one should.</p></sp> 
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Don't I love you as one should? </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+No.  When that's the case, one sees it, and shows with a thousand little pranks how one loves from the bottom of the heart.  Look at Fat Tomasina, how she is besotted with young Robin: she's always around him and never lets him be; she's always playing him some joke on him or giving him a swat in passing; and the other day when he was sitting on a stool, she pulled it from under him, and made him fall to the ground.  Yes!  That's what one sees when people love each other!  But you, you never say a word to me, and you always sit there silent as a stump; and I could pass twenty times in front of you before you could be bothered to give me the slightest knock or say the least thing.  It's not good, I tell you; you are too cold. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+What do you want me to do?  It's my humor.  I cannot be re-made.</p></sp> 
+ 
+<sp><speaker>PIERROT</speaker><p> 
+It is not a pleasing humor.  When someone feels love, one always gives some little signs. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Still, I love you as much as I can, and if you're not happy with that, you can always go love someone else. </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+So that's how it is!  Tell me, if you didn't love me, would you even tell me? </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Why must you always be disturbing my peace? </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+What have I done?  I'm only asking for a little love. </p></sp>
+ 
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Good!  Let me be then, and don't press so hard.  Maybe it will suddenly spring up if we don't try to force it. </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+Put it there, then, Charlotte.</p></sp> 
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+There.  </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+Promise me that you will try to love me more. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+I will try to do what I can, but it must come of its own accord.  Pierrot, is that the Sir you were talking about? </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+Yes, that's him. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+My God, he's handsome; it would have been a shame if he'd drowned. 
+</p></sp>
+<sp><speaker>PIERROT</speaker><p> 
+I'll be right back: I'm going to go drink some wine to help restore me from that hard swim. </p></sp>
+</div>
+  
+<div type="scene">   
+<head>SCENE 2</head>
+    <stage>Don Juan, Sganarelle, Charlotte </stage>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+We missed our chance, Sganarelle, and that sudden squall upended both our project and the boat; but, to tell you the truth, the peasant girl I just left has amended this misfortune, and the charms I find in her have erased from my mind all the chagrin caused by our failed enterprise.  I must not let this heart escape from me, and I have already made some arrangements to ensure that my sighs will not last long. </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Sir, you are astonishing.  We've just barely escaped the peril of death, yet instead of giving thanks to Heaven for the pity it has deigned to show us, you are already on route to drawing down its wrath with your habitual extravagance and love affairs. Believe me when ' Peace!  Peasant that you are; you don't know what you're saying, and Master knows what he's doing.  On then! </p></sp>
+ 
+ 
+<sp><speaker>DON JUAN</speaker><p>, seeing Charlotte. 
+Oh!  Oh!  Where did this other peasant come from, Sganarelle?  Have you ever seen anything so fine?  Isn't she even more ravishing than the other one? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Assuredly.  And here we go again. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+From whence, my beauty, comes a meeting so pleasant?   Is it possible that in these rustic places, among these trees and rocks, one can find women like you? </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+You see for yourself, Sir.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Are you from this village? </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Yes, Sir. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And you still live here? </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Yes, Sir. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+What's your name? </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Charlotte, at your service. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Ah!  What a beauty, and with eyes so piercing!</p></sp> 
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Sir, you're making me blush. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Oh, there's no shame in listening to the truth.  Sganarelle, what do you say?  Is it possible to gaze on anything so pleasant?  Turn a little, if you please.  Ah!  How perfect a waist!  Be kind enough to raise your head a little.  Ah, a face that is the essence of charm!  Open your eyes all the way.  Ah, how beautiful! Let me glimpse your teeth, I beg you. Oh, so loving, and lips so appetizing.  I find I am ravished and I have never seen such a charming woman. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Sir, it pleases you to say it, but I don't know if you aren't making make fun of me. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Me, mock you?  God keep me from it!  I love you too much for that, and I speak to you from the bottom of my heart.</p></sp> 
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+I am very obliged, if it is so. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Not at all; you are not obliged for what I say; you are indebted only to your beauty. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Sir, that is too well said of me, and I do not have the wit to reply.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Sganarelle, look at her hands. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Fie!  Sir, they are black as anything. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Ha!  Who told you that?  They are the most beautiful in the world; allow me to kiss them, I beg you. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Sir, you would honor me too much, and had I known that that you would ask to do so, I would not have failed to wash them with soap. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Tell me, beautiful Charlotte, you are no doubt married? </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+No, Sir, but I soon will be, with Pierrot, the son of neighbor Simonette. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+What?  A woman like you, the wife of a simple peasant!  No, no: that profanes all beauty, and you were not born to waste and wane in a village.  There can be no doubt that you merit a higher fortune, and Heaven, which knows this well, has led me here expressly to stop this marriage, and render justice to your charms.  Last but not least, Charlotte, I love you with all my heart, and as it is capable of holding no one but you, I will pull you from this miserable place and raise you to the state you deserve.  I grant that this love is abrupt; but what of it?  It is an effect, Charlotte, of your great beauty, and I've come to love you as much in the last fifteen minutes as another man would in six months.</p></sp> 
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Again, Sir, it is true that I am at a loss for words.  What you say to me makes me rejoice, and I have all the desire in the world to believe you, but I have always been told that one must never believe the Sirs, and that you courtiers are great coaxers, whose chief concern is how to abuse girls. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+I am not one of those. </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+He would never. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+You must understand, Sir, there is no pleasure in letting oneself be taken advantage of.  I am a poor peasant girl, but still cherish my honor, and I would rather see myself dead than dishonored. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Could I have a soul so mean as to trick a woman like you?  Could I be base enough to dishonor you?  No, no; I have too much conscience for that.  I love you, Charlotte, in all goodness and honor, and to prove to you that what I say is true, know that I have no other design than to marry you.  Could you wish for any greater testimony?  I am ready when you are; and I will take that man there as the witness of the word I have just given you. </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Don't worry, he will marry you as much as you want.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Ah, Charlotte, it is clear you do not know me yet.  To judge me by the deeds of others is to do me a great injustice; and if there are pretenders in the world, men who seek nothing but to fool girls, you should deduct me from their number, and not doubt the sincerity of my faith.  Moreover, your beauty is your shield.  When one is made as you are, one should be free of such fears; and you do not have the air, believe me, of a woman that could be abused.  For myself, I swear it, I would pierce my heart a thousand times if I had conceived even the least thought of betraying you.</p></sp> 
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+My God!  I don't know if you're telling the truth or not; but you make me believe you. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Since you believe me, you will do me justice surely, and so I reiterate the promise that I have made to you.  Will you not accept it, and consent to be my wife? </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Yes, if my aunt can attend. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Put it there, then, Charlotte, since you wish it. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+But do not trick me, Sir, I beg you: it would fall on your conscience, and you see very well that I am coming to it in good faith. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+What?  It seems that you still doubt my sincerity!  Do you want me to make some horrifying oaths?  Let Heaven </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+My God, no swearing! I believe you. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Then give me a little kiss as token of your word. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Oh, Sir, wait until we are married, I beg you; after that, I will kiss you as much as you please. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Excellent!  Beautiful Charlotte, I wish all that you wish; but abandon to me now only your hand, and allow that, by a thousand kisses, I may express to you my present ecstasy </p></sp> 
+</div>
+ 
+<div type="scene">
+    <head>SCENE 3</head>
+    <stage>Don Juan, Sganarelle, Pierrot, Charlotte</stage>
+ 
+    <sp><speaker>PIERROT</speaker> <stage type="gesture">getting between them and pushing Don Juan.</stage> <p>
+        Back off, Sir, and show some restraint, if you please.  You're getting too warm and could get pleurisy.   </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">giving Pierre a strong push back. </stage> 
+    <p>Who invited this yokel? </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+I'm telling you to restrain yourself, and to stop caressing my Charlotte </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">continuing to push him. </stage>
+    <p>Ah, what a noise! </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+I tell you, one should not push men around like this! </p></sp>
+ 
+    <sp><speaker>CHARLOTTE</speaker><stage type="gesture">taking Pierrot by the arm.  </stage>
+    <p>Let him be, Pierrot. </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+What?  Why should I let him be?  I don't like it.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Ah! </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+Oh!  So you think because you are a Sir, you can come and caress our women right under our noses?  Go back and caress your own women.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Huh? </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+    Huh.  <stage type="gesture">(Don Juan slaps him.)</stage>  Ah!  Don't hit me.  <stage type="gesture">(Another slap.)</stage>  Oh! <stage type="gesture">(Another slap.)</stage>  Ah!  <stage type="gesture">(Another slap.)</stage>  Oh!  It's not good to hit men, and that's certainly no way to repay someone for saving your from a good drowning.</p></sp>
+   
+<sp><speaker>CHARLOTTE</speaker><p> 
+Pierrot, don't get mad. </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+I will get mad; and you are flat out common to let someone fondle you. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Oh!  Pierrot, it's not what you think.  Sir would marry me, and you should not be getting all riled up.</p></sp> 
+ 
+<sp><speaker>PIERROT</speaker><p> 
+What!  But you promised! </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+It's not the end of the world, Pierrot.  Anyway, if you really loved me, wouldn't you be happy to see me become a Lady? </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+No, I would not.  I'd rather see you dead than belong to someone else. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Come on, Pierrot, simmer down a little, and look at the good side.  When I am a Lady, I can help you earn something, and you can bring loads of cheese and butter to our mansion. </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+The hell I will!  I'll bring you nothing, even if you pay me double!  So is this how you've listened to what I've said? Ah!  If I'd known all this before, I would of left him in the water, and even swatted him across the head with my oar. </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">approaching Pierrot to strike him.</stage>  
+    <p>What did you say? </p></sp>
+ 
+    <sp><speaker>PIERROT</speaker> <stage type="gesture">stepping behind Charlotte. </stage>
+    <p>Eh!  I'm not afraid of anyone.</p></sp> 
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">moves to the same side as Pierrot.</stage> 
+    <p>Wait for me. </p></sp>
+ 
+    <sp><speaker>PIERROT</speaker><stage type="gesture">passes to the other side of Charlotte. </stage>
+    <p> I scoff at your worst, I do! </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">runs after Pierrot. </stage>
+    <p> We'll see if that's true. </p></sp>
+ 
+    <sp><speaker>PIERROT</speaker><stage type="gesture">hides again behind Charlotte. </stage>
+    <p>I've braved all kinds of men. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Sure </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Eh!  Sir, let this miserable lad alone.  It would be against all conscience to beat him.   Listen, my poor boy, withdraw, and don't say anything more to him.</p></sp> 
+ 
+    <sp><speaker>PIERROT</speaker><stage type="gesture">passes in front of Sganarelle, and speaks fiercely to Don Juan.</stage> 
+    <p>But I want him to hear me! </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker> <stage type="gesture">raises his hand to slap Pierrot, but Pierrot ducks, and he slaps Sganarelle instead.</stage>
+    <p>Ah!  I'll teach you something! </p></sp>
+ 
+    <sp><speaker>SGANARELLE</speaker><stage type="gesture">looking at Pierrot. </stage>
+    <p> Plague take you, you moron! </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">to Sganarelle.</stage>
+    <p>That's the pay for your charity. </p></sp>
+ 
+<sp><speaker>PIERROT</speaker><p> 
+I'm going to go tell your Aunt about all these goings-on! </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Oh, truly, I am to be the most fortunate of men, and I would not change my happiness for all the world.  How many pleasures I will enjoy when you are my wife! and how
+</p></sp>
+</div>
+
+<div type="scene">
+    <head>SCENE 4 </head>
+    <stage>Don Juan, Sganarelle, Charlotte, Mathurine</stage>  
+ 
+    <sp><speaker>SGANARELLE</speaker><stage type="gesture">seeing Mathurine.</stage>
+    <p>Uh-oh.</p></sp>   
+ 
+ <sp><speaker>MATHURINE</speaker><p> <stage type="gesture">to Don Juan.</stage> 
+Sir, what are you doing here with Charlotte?  Are you making overtures of love to her as well? </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">to Mathurine.</stage> 
+    <p>No, on the contrary, it is she that is evincing a great desire to be my wife, and I was telling her that I was already engaged to you.</p></sp> 
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+What do you want, Mathurine? </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">softly, to Charlotte.</stage> 
+    <p> She is jealous to see me speaking to you, and really wants me to marry her; but I've told her that it's you that I want. </p></sp>
+ 
+<sp><speaker>MATHURINE</speaker><p> 
+What?  Charlotte  </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture"> softly, to Mathurine.</stage> 
+        <p>Everything you say to her will be useless; she has taken this idea into her head.</p></sp> 
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+How then!  Mathurine </p></sp> 
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">softly, to Charlotte. </stage>
+    <p>You speak to her in vain; you will not free her from this fantasy. </p></sp>
+ 
+<sp><speaker>MATHURINE</speaker><p> 
+Is it  </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">softly, to Mathurine. </stage>
+    <p> She will not listen to reason. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+I wish </p></sp> 
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">softly, to Charlotte. </stage>
+    <p> She is stubborn as all the devils.</p></sp> 
+ 
+<sp><speaker>MATHURINE</speaker><p> 
+Really </p></sp> 
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">softly, to Mathurine. </stage>
+    <p> Don't say anything to her, she's crazy. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+I think </p></sp> 
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">softly, to Charlotte. </stage>
+    <p>Let her be, she's not all there. </p></sp>
+ 
+<sp><speaker>MATHURINE</speaker><p> 
+No, no:  I must speak to her. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+I want to know her thoughts. </p></sp>
+ 
+<sp><speaker>MATHURINE</speaker><p> 
+What? </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">softly, to Mathurine. </stage>
+    <p>I bet she's going to tell you that I promised to marry her.</p></sp> 
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+I </p></sp> 
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">softly, to Charlotte.</stage> 
+    <p>I'll bet she'll say that I have given her my word to take her as my wife. </p></sp>
+ 
+<sp><speaker>MATHURINE</speaker><p> 
+Ho!  Charlotte, it's not good to poach in other people's woods. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+It is not honest, Mathurine, to be jealous just because Sir is talking to me. </p></sp>
+ 
+<sp><speaker>MATHURINE</speaker><p> 
+I saw him first. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Maybe he saw you first, but he saw me second, and promised to marry me. </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">softly, to Mathurine. </stage>
+    <p>See!  Didn't I tell you?</p></sp> 
+ 
+<sp><speaker>MATHURINE</speaker><p> 
+Begging your pardon, it's me, not you, that he has promised to marry.</p></sp> 
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">softly, to Charlotte. </stage>
+    <p>Didn't I predict it? </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Try another one, I pray.  It's me, I tell you.</p></sp> 
+ 
+<sp><speaker>MATHURINE</speaker><p> 
+You're joking; it's me, I repeat it again. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+There's the man who can tell you that I'm right. </p></sp>
+ 
+<sp><speaker>MATHURINE</speaker><p> 
+There's the man who can say I'm lying if I'm not telling the truth.</p></sp> 
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Sir, have you promised to marry her? </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">softly, to Charlotte.</stage>
+    <p>You're joking. </p></sp>
+ 
+<sp><speaker>MATHURINE</speaker><p> 
+Is it true, Sir, that you have given your word to be her husband?</p></sp> 
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">softly, to Mathurine.</stage> 
+    <p>How could you think that?</p></sp>    
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+You see how she maintains it. </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">softly, to Charlotte. </stage>
+    <p>Let her be. </p></sp>
+ 
+<sp><speaker>MATHURINE</speaker><p> 
+You witness her claim. </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">softly, to Mathurine.</stage> 
+    <p>Let her say it. </p></sp>
+ 
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+No, no: I must know the truth.</p></sp> 
+ 
+<sp><speaker>MATHURINE</speaker><p> 
+It needs to be settled. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Yes, Mathurine, I fully wish that Sir will show us all what a wet calf you are. </p></sp>
+ 
+<sp><speaker>MATHURINE</speaker><p> 
+No, Charlotte, Sir will rather show you to be even more pitiful than you seem ' which itself seems barely possible. </p></sp>
+ 
+<sp><speaker>CHARLOTTE</speaker><p> 
+Sir, settle the quarrel, please. </p></sp>
+ 
+<sp><speaker>MATHURINE</speaker><p> 
+Put us in accord, Sir. </p></sp>
+ 
+    <sp><speaker>CHARLOTTE</speaker><stage type="gesture">to Mathurine.</stage> 
+    <p>You'll see.</p></sp> 
+ 
+    <sp><speaker>MATHURINE</speaker><stage type="gesture">to Charlotte.</stage> 
+    <p>You'll see yourself.</p></sp> 
+ 
+    <sp><speaker>CHARLOTTE</speaker><stage type="gesture">to Don Juan.</stage> 
+    <p>Tell us.</p></sp> 
+ 
+    <sp><speaker>MATHURINE</speaker><stage type="gesture">to Don Juan.</stage> 
+    <p>Speak.</p></sp> 
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">to both.</stage> 
+<p>
+    What do you want me to say?  You both declare that I have promised to marry you.  But since one of you actually knows which of you it is, is it really necessary for me to explain it further?  Why oblige me to repeat it?  She to whom I really promised - isn't she in fact just mocking the other one, and should she put herself in any pain provided that I accomplish my promise?  All this discussion advances nothing; one must do and not speak, and facts decide things better than words.  And since nothing that I say can put you in agreement, we will see, when I am married, which of you two has my heart.  
+    <stage type="gesture">(Softly, to Mathurine.)</stage> 
+    Let her believe what she will. <stage type="gesture">(Softly, to Charlotte.)</stage>  
+    Let her flatter herself in her imagination.  <stage type="gesture">(Softly, to Mathurine.)</stage>  
+    <stage type="gesture">I adore you.  (Softly, to Charlotte.)</stage>  
+    I am yours.  <stage type="gesture">(Softly, to Mathurine.)</stage> All faces are gruesome next to yours. <stage type="gesture">(Softly, to Charlotte.)</stage>  When one has once seen you, one cannot stand the rest.  I now have a little order to give: I will come back to find you in a quarter of an hour. </p></sp>
+ 
+ 
+    <sp><speaker>CHARLOTTE</speaker><stage type="gesture">to Mathurine.</stage>
+    <p>I am the one he loves.</p></sp> 
+ 
+<sp><speaker>MATHURINE</speaker><p> 
+But it's me he will marry.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Ah!  Poor girls that you are, I pity your innocence, and cannot stand by while you rush to your ruin.  Believe me, both of you: do not entertain all the stories one tells you, and you would do better to stay in your village. </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">returning.</stage> 
+    <p>I wonder why Sganarelle has not followed me. </p></sp>
+ 
+    <sp><speaker>SGANARELLE</speaker><stage type="gesture"> to the girls.</stage> 
+    <p>My master is a scoundrel: he has designs only to abuse you, and has already abused many others; he is the groom of the entire human race, and ' (He sees Don Juan.)  That is totally false; and whoever says that, you should tell him that he lies.  My master is not the groom of all the human race, he is no scoundrel at all, and does not have designs to fool you, and has never abused others.  Ah!  Look ' the man himself!  Prefer rather to ask it of him. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Yes.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Sir, as the world is full of malicious speakers, I was trying to forewarn them; and I was telling them that if someone happened to say bad things about you, they should be careful not to believe them, and not fail to tell them that they were lying.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Sganarelle.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Yes, Sir is a man of honor, I guarantee it.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Hon! </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Yet there are such malaperts.</p></sp>
+</div>
+ 
+ 
+ 
+ 
+ 
+<div type="scene">
+    <head>SCENE 5.</head> 
+    <stage>Don Juan, La Ramée, Charlotte, Mathurine, Sganarelle</stage>
+ 
+    <sp><speaker>LA RAMÉE</speaker><p>
+Sir, I have come to warn you that this place is no longer safe for you.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+How so? </p></sp>
+ 
+<sp><speaker>LA RAMÉE</speaker><p> 
+Twelve men on horseback are looking for you and might arrive here at any moment.  I don't know how they have followed you; but I learned of it from a peasant they had questioned.  Time presses, and the sooner you leave the better. </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">to Charlotte and Mathurine.</stage> 
+    <p>An urgent affair obliges me to leave; but I beg you to remember the word that I have given you, and to believe that you will hear from me before tomorrow night.  As the party is not equal, I must resort to a stratagem, and deftly elude the misfortune that seeks me.  Sganarelle, you shall put on my clothes, and for myself </p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Sir, you joke. To let me be killed in your clothes, and </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Come quickly, I honor you too much, and happy is the valet who can gain the glory of dying for his master.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+I thank you kindly for such an honor, but Heavens! since it is a question of death, do me the grace of not letting me be mistaken for another! </p></sp>
+</div>
+</div>
+ 
+<div type="act"> 
+<head>ACT III</head>
+ 
+    <stage type="setting">A forest, near the sea, and in the neighborhood of the city. </stage>
+ 
+ 
+<div type="scene">
+    <head>SCENE 1</head>
+<stage>Don Juan, in country clothes, 
+    Sganarelle, dressed as a doctor. </stage>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+My faith, Sir, I avow that I was right, and that we are both admirably disguised.  Your first plan would not have done at all, and I find that this ploy serves us much better. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+It's true that your clothes suit you well, but I can only wonder where you drummed up such ridiculous attire.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+You think so?  They belonged to an old doctor, who left them in a place where it cost me a lot to get them.  But you know, Sir, these gowns have already put me in some consideration.  I am saluted by the men that I meet and they even consult me as though I were an educated man.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+What do you mean?</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Five or six peasants, seeing me pass by, came to ask my advice on different ailments.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And you told them you knew nothing? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Not a bit: I had to uphold the dignity of my robes.  So I diagnosed their illnesses and gave them each a prescription.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And what did you prescribe? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+My faith!  Sir, I made the remedies up at random, and it would be quite amusing if they were actually cured, and then came back to thank me.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And why not?  Should you be denied the same privileges as other doctors?  They do nothing more to cure the sick, and their art is pure grimace.  All they do is receive the glory from their more fortunate cases, and you too should benefit as they do from the joy of the cured, and see attributed to your remedies all that in fact comes from the favors of chance and the forces of nature.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+What! Sir! You don't believe in medicine, either?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+It is one of the greatest errors entertained by men.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+What?  You don't believe in hellebore, cassia, or even in emetic wine?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And just why is it you so want me to believe in them?</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Your soul, Sir, is really that of a skeptic.  But you cannot deny that for some time now, this emetic wine has caused quite a rumbling in the pants.  Its miracles have converted the most doubting minds, and not three weeks ago, I, I who am speaking to you, saw its most amazing effect. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Which was?</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+A man had been in agony for six days; they didn't know what to give him, and all the remedies had had no effect; so at last they gave him this emetic wine.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And he recovered? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+No, he died.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+An astounding effect.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+You scoff!  But for six whole days he had been unable to die, and that killed him on the spot.  Could you wish for anything more effective? </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+No doubt you're right.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+But let's leave medicine alone, since you don't believe in it, and speak of other things, for this gown appears to lend me wit, and I feel in a mood to argue with you; you recall, don't you, that I am allowed to argue, and that you only forbid me to make reproaches.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+I would like to learn about your most profound thoughts.  Is it possible that you do not believe in Heaven at all?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Leave that one alone.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+I'll take that as No.  And in Hell? </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Eh!</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Just the same.  And in the Devil, if you please?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Yes, yes, yes.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+I see, just as little.  But don't you believe in the afterlife?  Your laughter tells me it would take a lot of work to convert you.  You do believe in the Bogey-Man, don't you?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Oh, yes! The Bogey-Man! </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Now that's just insufferable, because there's nothing more real than the Bogey-Man.  But as one must believe in something in this world: what, then, do you believe?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+What do I believe? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Yes.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+I believe that two and two makes four, Sganarelle, and that four and four makes eight.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+A fine credo, with such self-evident articles of faith!  Your religion, then, is arithmetic?  I must avow that it fills the heads of men with strange follies, and that men after studying it have been known to become less wise.  For myself, Sir, I have never studied as you have, thank God, and no one can ever brag about having taught me anything; but with my little kernel of sense, my infinitesimal judgment, I see more clearly than all the books, and I understand quite well that the world we see is not just some mushroom that sprang up on its own in one night.  I ask you: Who made these trees, these rocks, this earth, and the sky that you see above us?   Did this just build itself?  You, yourself, for example, you are right there: were you made in all singularity?  Can you gaze on all the inventions of which the machine of man is composed without admiring the way in which they are arranged, one inside the other: these nerves, these bones, these veins, these arteries, these ' the lung, this heart, this liver, and all the other ingredients that are there, and which ' Oh!  Damn, interrupt me, if you please: I cannot argue with you if you don't interrupt me: and you're being silent as a stump out of deliberate malice.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+I'm just waiting for the end of your argument.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Well, my argument is that there is something admirable in man, no matter what you might say, which all the learned men cannot explain.  Is it not a marvel that I am here, and that I have something in my head which makes me think a hundred different things at once, and that can make my body do what it would?  That I can clap my hands, raise my arms, lift my eyes to Heaven, lower my head, move my feet, go to the right, go to the left, forwards, backwards, turn </p></sp> 
+ 
+    <stage type="gesture">He falls while turning.</stage> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+There!  Behold! Your argument has broken its nose! </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Oh!  I am a dunce to try to reason with you.  Believe what you want: little matter if you're damned!</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+But with all this discussion, Sganarelle, we seem to have lost our way.  Call to that man over there, so we might ask him the route.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Hello!  Ho, man!  Ho, my brother!  Ho, friend!  A brief word, if you please.</p></sp>
+</div>
+ 
+ 
+ 
+<div type="scene">
+    <head>SCENE 2 </head>
+    <stage>Don Juan, Sganarelle, a beggar</stage>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Could you tell us the way to the city?</p></sp> 
+ 
+<sp><speaker>BEGGAR</speaker><p> 
+You only have to follow this route, Sirs, and turn to the right when you reach the edge of the forest.  But I warn you to keep up your guard up, for some bandits have been roaming in this area for some time. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+I am very obliged to you, my friend, and give you thanks with all my heart.</p></sp> 
+ 
+<sp><speaker>BEGGAR</speaker><p> 
+If you could, Sir, could you give me the succor of some alms? </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Ah!  I see that your warning was self-interested.</p></sp> 
+ 
+<sp><speaker>BEGGAR</speaker><p> 
+I am a poor man, Sir, and have lived all alone in these woods for ten years, and I will never fail to pray to Heaven to give you all manner of goods. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Hah!  Pray rather that it will give you some clothes rather than troubling over the affairs of others.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+My friend, you don't know Sir at all: his only belief is that two and two makes four and that four and four makes eight. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Tell me, exactly what is your vocation among these trees?</p></sp> 
+ 
+<sp><speaker>BEGGAR</speaker><p> 
+To pray to Heaven every day for the continued prosperity of wealthy men who give me alms.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+You must live in great ease, then.</p></sp> 
+ 
+<sp><speaker>BEGGAR</speaker><p> 
+Alas!  Sir, I suffer the greatest want in the world.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+You're joking!  Surely a man who prays to Heaven every day cannot lack success in his affairs.</p></sp> 
+ 
+<sp><speaker>BEGGAR</speaker><p> 
+I assure you, Sir, that more often than not I have not even a crust to put between my teeth.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+That's strange!  To be so poorly rewarded for your pains. Ha!  Well!  I will give you a gold Louis, in just a moment, provided that you swear.</p></sp> 
+ 
+<sp><speaker>BEGGAR</speaker><p> 
+Sir, would you have me commit such a sin?</p></sp> 
+ 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+You have only to decide if you want a gold Louis or not.  Here's the one I will give you, if you swear; take it, you only have to swear.</p></sp> 
+ 
+<sp><speaker>BEGGAR</speaker><p> 
+Sir! </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+For less than this, you shall not have it.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Go ahead, swear a little, there's no harm.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Take it; here it is.  Take it, I say, but swear.</p></sp> 
+ 
+<sp><speaker>BEGGAR</speaker><p> 
+No, Sir, I would rather die of hunger.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Take it anyway, then.  I give it to you out of love for humanity.  But what do I see over there?  One man attacked by three?  The match is too lopsided, and I cannot allow such baseness. </p></sp>
+</div>
+ 
+ 
+<div type="scene">
+    <head>SCENE 3</head>
+    <stage>Don Juan, Don Carlos, Sganarelle</stage> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+My master must be mad to expose himself to perils which aren't looking for him; but, my faith! His help has saved the day, and the two have put the three to flight.</p></sp> 
+ 
+    <sp><speaker>DON CARLOS</speaker> <stage type="gesture">sword in hand.</stage> 
+        <p>One sees, from the flight of these thieves, the worthy aid of your arms.  Allow me, Sir, to render you thanks for such a generous action, and that</p> </sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">coming back, sword in hand.</stage> 
+    <p>I've done nothing, Sir, that you would not have done in my place.  Our personal honor has a stake in such exploits, and the deed of these ruffians was so low that to have failed to oppose them would been to take their part.  But how did you find yourself in their hands? </p></sp>
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+By chance I had been separated from my brother and the rest of our group; and as I sought to rejoin them, I met these thieves, who immediately killed my horse, and who, without your valor, would have done the same to me. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Were you going to the city? </p></sp>
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+To it, but not actually into it.  We are obliged, my brother and I, to keep to the countryside on account of one of those aggravating affairs that reduces gentlemen to sacrificing both themselves and their families to the severity of their honor.  Often in such cases, even the success is dire, and if we don't quit this life, we are still constrained to quit the kingdom.  It is in this respect that I find the condition of a gentleman to be an unfortunate one: to be unable to assure oneself of an absolute prudence and honesty in conduct, to be subjugated by the laws of honor to the capricious conduct of another, and to see one's life, peace, and possessions subject to the fantasy of the first heedless fool who takes it upon himself to do one of those injuries for which a man of honor must perish.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+But there is this advantage: they run the same risks we do and we can return the favor to those who dare offend us with the fantasy of their frivolous hearts.  But would it be less than discrete to ask what your affair might be?</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+It no longer requires secrecy, for the injury has declared itself, and our honor, no longer obliging us to hide our shame, would rather celebrate our vengeance, and even publish the design of it.  Thus, Sir, I do not hesitate to tell you that the offense we seek to revenge is that of a sister seduced and wooed from a convent; and that the author of this offense is a Don Juan Tenorio, son of Don Louis Tenorio.  We have been seeking him for several days, and were pursuing him this morning on the report of a valet who told us he was on horseback, accompanied by four or five others, along this route; but all our efforts have been useless, and we don't know what has become of him.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Do you know, Sir, this Don Juan of whom you speak?</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+I have never laid eyes on him, and have only heard him described by my brother.  But his repute is far from the best, and he is a man whose life </p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Stop, Sir, if you please.  He is a friend of mine, and it would be a species of lowness in me to hear anyone speak badly of him.</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+For love of you, Sir, I will say nothing.  It is the least I owe you, after saving my life, to keep silence in your presence about someone you know, when what I say can only be bad; but, whatever friend of yours he may be, I dare to hope that you will not approve of his action, and will not find it inapt that we seek our revenge.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+On the contrary, I will even serve you in this, and spare you further vain efforts.  I am a friend of Don Juan; I cannot help it.  But it is unreasonable that he should offend gentlemen with impunity, and I will bring him myself to give you an account of his reasons.</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+And what reasons could he possibly make for this sort of injury?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p>  
+All that your honor could wish; and, to spare you further trouble in seeking him out, I will produce him myself in the place that you wish, and at a time that you wish.</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+It is a sweet promise, Sir, to an offended heart; but, after what I owe you, I would feel deep sorrow should you be a party to it.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+I am so close to Don Juan that he could not fight if I did not also fight; and I will answer for him as though for myself; you only need say when you wish him to appear and he will give you satisfaction.</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+Ah!  My destiny is so cruel!  To owe my life to you, yet for Don Juan to be one of your friends!</p></sp>
+</div>
+ 
+ 
+<div type="scene">
+    <head>SCENE 4</head> 
+<stage>Don Alonse, and three servants. 
+    Don Carlos, Don Juan, Sganarelle.</stage> 
+ 
+<sp><speaker>DON ALONSE</speaker><p> 
+Water my horses, and lead them after us; I want to walk for a bit.  O, Heavens!  What am I seeing?  What?  My brother, you are here with our mortal enemy?</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+Our mortal enemy? </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">recoiling three steps and fiercely putting his hand on the pommel of his sword.</stage> 
+    <p>Yes, I am Don Juan, and your advantage in numbers does not oblige me to conceal my name.</p></sp> 
+ 
+<sp><speaker>DON ALONSE</speaker><p> 
+Ah!  Traitor!  You must die, and </p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+My brother! Stop!  I owe him my life; and without the aid of his sword, I would have just now been killed by some thieves.</p></sp> 
+ 
+<sp><speaker>DON ALONSE</speaker><p> 
+And you wish this consideration to impede our vengeance?  All the services rendered by an enemy hand have no binding claims on our soul; and one must measure the obligation against the injury.  Your gratitude in this, my brother, is ridiculous; and as honor is infinitely more precious than life, strictly speaking we owe nothing for the saving of a life from which the honor has been stolen.</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+I know the distinction, my brother, that a gentleman always makes between the one and the other, and my recognition of the obligation does not annul in me all the resentment of the injury; but allow me to render to him here what he has loaned to me, that I acquit myself of the life that I owe him, by offering a delay in our vengeance, and leaving him the liberty to enjoy, for several hours, some fruit from his fine deed.</p></sp> 
+ 
+<sp><speaker>DON ALONSE</speaker><p> 
+No!  No!  To recoil is to hazard our chance for sure vengeance, and the occasion may not present itself again.  Heaven offers it to us here and now; we must seize it. When honor is mortally wounded, we should spare no measures; and if you feel some repugnance in lending your arm to this action, you have only to step back and leave the glory of such a sacrifice to my hand.</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+Please, my brother </p></sp> 
+ 
+<sp><speaker>DON ALONSE</speaker><p> 
+All these speeches are vain; he must die.</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+Stop!  Restrain yourself, my brother.  I will not suffer you just now to menace his life, and I swear to Heaven that I will defend him here; and I will make a rampart for him of this same life that he has saved.  To deal him your mortal blows, you will have to pierce me.</p></sp> 
+ 
+<sp><speaker>DON ALONSE</speaker><p> 
+What?  You side with our enemy against me?  And far from being seized at the sight of him by the same loathing that I feel, you harbor for him feelings full of tenderness? </p></sp>
+ 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+My brother, let us show some moderation in a legitimate action, and not revenge our honor with such unbridled frenzy.  Let us be masters of our heart, and exercise a valor with nothing savage to it, which fulfills itself through a pure deliberation of our mind, and not by the movement of a blind fury.  I do not wish, my brother, to remain indebted to my enemy, and I now have an obligation to him which I must acquit before all other things. Yet our vengeance, for being deferred, will not be any less crushing: on the contrary, it will gain this advantage: letting the first opportunity to take it pass will make it appear more just in the eyes of the world.</p></sp> 
+ 
+<sp><speaker>DON ALONSE</speaker><p> 
+O strange weakness, and horrible blindness!  To jeopardize in this way the interests of honor for some ridiculous notion of a chimeric obligation! </p></sp>
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+No, no, my brother, do not torment yourself so.  If I here commit a fault, I will know how to repair it; and I charge myself with all the care of our honor.  I know its obligations, and this suspension of a day, which my gratitude demands, will only heighten the burning ardor I have to satisfy it.  Don Juan, you see that I am careful to return the good that I have received from you, and you should judge by that of the rest, and know that I will be no less exact in paying you for the injury as for the good deed.  I do not wish to oblige you here with an explanation of your feelings, and give you the liberty to think at leisure of the resolutions you should take. You know the greatness of the offense that you have done us, and you will weigh for yourself the reparation it demands.  There are sweet ways to satisfy us; not a few of which are violent and bloody; but whatever choice you make, you have given your word to make Don Juan explain himself to me.  Remember this, I beg you, and remember, too, that beyond this time and this spot, I owe you nothing more than my honor.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+I have demanded nothing of you, and will keep my word. </p></sp>
+ 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+Let's go, my brother: for a moment of tenderness in no way abates the severity of our duty.</p></sp>
+</div>
+ 
+<div type="scene">
+<head>SCENE 5</head> 
+    <stage>Don Juan, Sganarelle</stage> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Hola!  Ho, Sganarelle!</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Yes, Sir? </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+What?  Scoundrel, you run when they attack me?</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Forgive me, Sir; I was just over there.  I do believe this gown is purgative, and that just to wear it is to take medicine.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Insolent varlet!  At least cover your cowardice with a more becoming veil.  Do you have any idea whose life I just saved? </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Me?  No.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+It was one of Elvira's brothers.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Hm </p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+He seems quite honorable, he used me well, and I am sorry now to be mixed up in this affair with him.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Sir, it would be easy enough for you to make peace.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Yes; but my passion for Elvira is spent, and such jessies do not suit my humor.  I love liberty in love, as you know, and I could not resign myself to enclosing my heart between four walls.  I have told you twenty times, I have a natural inclination to let myself veer towards everything that attracts me.  My heart belongs to all the beauties, and it is up to each of them in turn to assume it and to keep it as long as they can.  But what is this proud edifice I see between these trees?</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+You don't know? </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+No, truly.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Well, then!  It is the tomb that the Commander ordered built when you killed him.</p></sp>  
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Ah!  You're right.  I did not realize it was right here.  People have raved to me about this wondrous work, and about the Commmander's statue.  We must see for ourselves.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Sir, you shouldn't go there.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Why not?</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+It would not be civil to go see a man that you've killed. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+On the contrary, I owe him the courtesy of such a visit, and he would receive it with good grace, were he a gallant man.  Go on, then, inside.</p></sp> 
+ 
+    <stage type="gesture">The tomb opens, giving a view of the grand mausoleum of the Statue of the Commander.</stage>   
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Ah!  So beautiful!  Beautiful statues!  Beautiful marble!  Beautiful pillars!  Ah, it's so beautiful!  What do you say about it, Sir?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+That one cannot see the ambition of a dead man go any farther than this: and what I find most amazing is that a man who occupied, during his life, a simple enough abode, would want such a magnificent one for when he has nothing left to do.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Look, it's the Statue of the Commander.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Ah!  Here's the good man in the clothes of a Roman emperor!</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+My faith, Sir, this is well-made.  He seems to be alive, and on the verge of speech.  He casts such frightening looks on us; but if I were here only by myself, I think he would be less glad.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And he would be wrong; and it would be to receive but poorly the honor that I do him.  Ask him if he would like to dine with me.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+I don't believe that's something he needs.</p></sp> 
+ 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Ask him, I tell you. </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+You're joking.  It would be foolish to speak to a statue. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Do what I tell you.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+    How bizarre!  Lord Commander  I laugh at my stupidity, but it is my master's bidding.  Lord Commander, my master Don Juan asks you if you would like to do him the honor of dining with him.  <stage type="gesture">(The statue lowers its head.)</stage>   Ah!</p></sp>  
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+What is it?  What's the matter?  Speak, won't you?</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p>, making the same sign that the statue had made to him, by lowering his head. 
+The Statue</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Very clear!  What would you say, traitor?</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+I tell you that the Statue </p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Again!  The Statue!  I will clobber you, if you don't speak.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+The Statue gestured to me.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Plague take the wretch!</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+It made a sign to me, I tell you; nothing could be truer.  Go talk to it yourself and see.  Maybe </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Come on, you lout, I'll show you for the chicken you are.  Very careful now.  The Lord Commander, would he be pleased to come dine with me?</p></sp> 
+ 
+    <stage type="gesture">The Statue again lowers its head.</stage> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Didn't I tell you?  Did you see it, Sir?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Come on, let's leave this place.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+There's your skeptics for you, who won't believe anything.</p></sp>
+</div>
+</div>
+ 
+<div type="act">
+<head>ACT IV</head>
+<stage type="setting">The apartment of Don Juan.</stage> 
+
+<div type="scene">
+<head>SCENE 1</head>
+    <stage>Don Juan, Sganarelle</stage> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+In any case, let's leave it; it's a trifle, and we might have been tricked by a false light or deceived by some mist.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Eh!  Sir, stop trying to deny what we both saw with our own eyes. Nothing could have been clearer than that sign of the head; and I don't doubt that Heaven, scandalized by your life, has produced this miracle to convince you, and to tear you from</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Listen.  If don't stop pestering me with these idiot sermons, if you say the least thing of this sort to me again, I will call a man, ask for a bull-whip, then have you held by three or four others, and give you a thousand strokes. Do you understand?</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Entirely, Sir.  You've explained yourself well.  That's what's good about you, you don't take detours, and say things with an admirable clarity.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Let's go.  And have them bring dinner as early as possible.  A chair, my boy.</p></sp> 
+</div>
+ 
+<div type="scene">
+    
+    <head>SCENE 2</head> 
+    <stage>Don Juan, La Violette, Sganarelle</stage> 
+ 
+<sp><speaker>LA VIOLETTE</speaker><p> 
+Sir, M. Dimanche, your provisioner, is here and asks to speak with you.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Yes!  Just what we needed - a creditor.  Who does he think he is coming here to ask for money?  I presume you told him that Sir is not here?</p></sp> 
+ 
+<sp><speaker>LA VIOLETTE</speaker><p> 
+I told him so an hour ago; but he wouldn't believe me and sat down to wait.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Let him wait as long as he likes.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+No, no, on the contrary, show him in.  It is a poor policy to hide from creditors.  It is better to pay them something, and I have the secret of sending them away satisfied without giving them a sou. </p></sp>
+</div>
+ 
+<div type="scene">
+    <head>SCENE 3</head> 
+<stage>Don Juan, M. Dimanche, Sganarelle, Suite </stage>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">with grand civilities.</stage>  
+    <p>Ah!  M. Dimanche, come in, come in.  I am delighted to see you, and am perplexed that my men did not let you in to see me right away!  I had left orders that nobody should disturb me; but this order was not meant for you; for to you our doors are always open.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+Sir, I am very obliged.</p></sp> 
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">speaking to his lackeys.</stage>  
+    <p>Laggards, I will teach you to leave M. Dimanche in a waiting room; and you will learn to know men for their proper worth!</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+Sir, it was nothing.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+What?  Does M. Dimanche not rank among the best of my friends?</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+Sir, I am your servant.  I have come</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Quickly now, a chair for M. Dimanche.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+Sir, I am fine where I am.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+No, no, I would like you to come sit next to me.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+That's not in the least necessary.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+No, take away this folding stool, and bring an arm-chair. </p></sp>
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+Sir, you are joking, and</p></sp>  
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+No, no, I know what I owe you, and I would have no one make a distinction between the two of us.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+Sir </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Please, be seated.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+There is no need, Sir, and I have only to say a word to you.  I was </p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Make yourself comfortable there, I say.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+No, Sir, I am fine.  I have come for </p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+No, I will not listen unless you accept the offer of this chair.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+Sir, I will do as you wish.  I </p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Ah!  M. Dimanche, you look so very healthy!</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+Yes, Sir, thank you.  I have come </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+You are the image of health: fresh lips, rosy skin, and bright eyes.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+I would like </p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+How is your wife, Mrs. Dimanche?</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+Very well, Sir, thanks to God.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+She's a fine woman.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+She is your servant, Sir.  I've come </p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And your little daughter Claudia, how is she?</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+She could not be better.</p></sp>   
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Such a pretty young girl!  I love her with all my heart!</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+You do me too great an honor, Sir.  I would </p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And little Colin, is he still forever beating his little drum?</p></sp>
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+Always the same, Sir.  I </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And your tiny dog, Brisket?  Does he still growl like a lion and nibble the legs of your guests? </p></sp>
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+More than ever, Sir, and we would have him no other way.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+You should not be surprised that I ask news of your family, for I take a great interest in all of them. </p></sp>
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+We are, Sir, infinitely obliged.  I</p></sp> 
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">offering him his hand.</stage> 
+    <p>Put it there, M. Dimanche.  You are my friend?</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p>  
+Sir, I am your servant.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Ah!  And I am yours with all my heart.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+You honor me too much.  I </p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+There's nothing I wouldn't do for you.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+Sir, you are too kind.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And all without interest, I beg you to believe it.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+I have done nothing to merit this grace, surely.  But, Sir</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Oh! M. Dimanche, without more ceremony, would you dine with me? </p></sp>
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+No, Sir, I must return very soon.  I </p></sp>
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">rising.</stage> 
+    <p>We'll be on our way, then.  Light a torch to conduct M. Dimanche, and have four or five of my men shoulder their muskets to protect him.</p></sp>
+ 
+    <sp><speaker>M. DIMANCHE</speaker><stage type="gesture">also rising.</stage> 
+    <p>Sir, that is not necessary, and I will go on my own.  But</p> </sp>
+ 
+        <sp><speaker>SGANARELLE</speaker><stage type="gesture"> swiftly removes the chairs.</stage></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+What?  I want them to escort you, for I am concerned about your safety.  I am your servant, far more than your debtor.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+Ah!  Sir </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+It is a thing I do not hide, and I profess it to all the world.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+If </p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Would you permit me to escort you myself?</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+Ah!  Sir, you are joking, Sir </p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Give me a hug, then, if you please.  I beg you once more to be persuaded that I am yours, and that there is nothing in the world I wouldn't do in your service.</p></sp> 
+ 
+        <stage type="gesture">He leaves.</stage> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+I must avow that you have in Sir a man who loves you well.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+It is true that he has made me so many civilities and so many compliments that I did not know how to ask him for money.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+I assure you that his entire household would perish for you; and if something were to happen to you, or if someone took it into his head to give you some blows, you would see in what manner </p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+I believe it.  But, Sganarelle, I beg you to make some small mention of my money to him.</p></sp>  
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Oh!  Don't worry.  He will pay you better than anyone.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+But you, Sganarelle, you too owe me something yourself.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Fie!  Don't mention it.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+What?  I </p></sp>
+<sp><speaker>SGANARELLE</speaker><p> 
+Didn't I just tell you what I owed you?</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+Yes, but</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Let's go, M. Dimanche, I will light your way.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+But my money </p></sp> 
+ 
+        <sp><speaker>SGANARELLE</speaker><stage type="gesture">taking M. Dimanche by the arm.</stage> 
+    <p>But you're joking?</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+I would </p></sp>
+ 
+        <sp><speaker>SGANARELLE</speaker><stage type="gesture">pulling him.</stage> 
+<p>Eh! </p></sp>
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+I hear </p></sp>
+ 
+        <sp><speaker>SGANARELLE</speaker><stage type="gesture">pushing  him.</stage> 
+    <p>Trifles.</p></sp> 
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+But</p></sp> 
+ 
+        <sp><speaker>SGANARELLE</speaker><stage type="gesture">pushing him.</stage>  
+    <p>Don't mention it! </p></sp>
+ 
+<sp><speaker>M. DIMANCHE</speaker><p> 
+I </p></sp> 
+ 
+        <sp><speaker>SGANARELLE</speaker><stage type="gesture">pushing him totally off-stage.</stage> 
+    <p>Fie! I tell you. </p></sp>
+</div>
+ 
+<div type="scene"> 
+<head>SCENE 4</head> 
+    <stage>Don Louis, Don Juan, La Violette, Sganarelle</stage>  
+ 
+<sp><speaker>LA VIOLETTE</speaker><p> 
+Sir, your father has just arrived.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Perfect!  Just the visit to put me in a fine mood.</p></sp> 
+ 
+<sp><speaker>DON LOUIS</speaker><p> 
+It is clear, my son, that my arrival makes you uneasy and that you would only be too glad to forego my presence.  To tell you the truth, each of us has always disturbed the other, and if you are tired of seeing me, I am equally sick of the life you are leading.  Alas!  How ignorant we are when we do not leave our needs to the care of Heaven, and, deeming ourselves wiser than it, importune it with our rash wishes and demands!  I had prayed for a son of unparalleled passion, never abating my fervent pleas, and the son that I obtained by fatiguing Heaven with my vows, though I had hoped him to be my joy and consolation, has turned out in the event to be the chagrin and torment of my life.  With what eye, in your opinion, do you think I can see your mounting heap of lowly actions, whose ill face, in the eyes of the world, can scarcely be softened; this continuous suite of sordid affairs, which reduces our esteem at all hours, tires the bounty of the King, and has vitiated in his eyes both the merit of my services and the credit of my friends?  Ah! Such baseness!  Don't you blush to have so little merited your birth?  Have you any right to draw from it the least bit of vanity?  What have you done in the world to let yourself be called a gentleman?  Do you believe it suffices to carry a name and arms, or that there is any glory in having sprung from noble blood while living in infamy?  No, no!  Birth is nothing without virtue.  We have no part of our ancestors' glory except as we emulate them; and the luster cast on us by their actions imposes on us the duty to render them the same honor, to follow the steps they have traced, and to cleave, not degenerate, from their virtues, if we would be deemed their true descendants.  Thus you have descended in vain from the ancestors who bore you; they disavow you as being of their blood, and all their illustrious accomplishments give you no advantage; on the contrary, their renown does not reflect on you except to your dishonor, and the glory of their torch only lights for the eyes of all the world the shame of your actions.  Learn that a gentleman who lives in evil habits is a monster of nature, that virtue is the first title of nobility, and that I consider far less the name that one signs than the actions one has done, and that I would prefer to be the son of a weaver who was an honorable man, than the son of a monarch who lives as you do.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Perhaps if you were seated, Sir, you might speak more eloquently on the subject.</p></sp> 
+ 
+<sp><speaker>DON LOUIS</speaker><p> 
+No, malapert, I do not wish to sit, or even speak any more, and it is clear that all my words have not the least effect on your soul.  But know, unworthy son, that your actions have pushed paternal tenderness to the limit, and I will, sooner than you think, bring a term to your degeneracy, I will pre-empt the wrath of Heaven as concerns you, and by your punishment I will wash away the shame of having brought you into the world.</p></sp> 
+    
+    <stage type="gesture">He leaves.</stage>
+</div>
+ 
+ 
+<div type="scene">
+    <head>SCENE 5</head>
+    <stage>Don Juan, Sganarelle</stage> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And die as quickly as you can, it's the least you could do.  Every dog should have its day, and it fills me with rage to see fathers who live as long as their sons.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Ah!  Sir, you are wrong.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+I'm wrong?</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Sir</p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p>, rising from his chair. 
+I'm wrong?</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Yes, Sir, you are wrong to have suffered what he said to you and you should have thrown him out on his ear.  Has anyone ever seen such impertinence?  For a father to come and reproach his son, to tell him to correct his actions, to remember his birth, to lead the life of an honorable man, and a hundred others stupidities of a like nature!  That it should be borne by a man like you, who knows how one must live!  I marvel at your patience; and if I had been in your place, I would have sent him packing.  O evil complicity!  To what have you reduced me? </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Is my dinner ready yet? </p></sp>
+</div>
+ 
+ 
+<div type="scene">
+    <head>SCENE 6 </head>
+    <stage>Don Juan, Donna Elvira, Ragotin, Sganarelle</stage>
+ 
+<sp><speaker>RAGOTIN</speaker><p> 
+Sir, there is a woman in a veil who wants a word with you.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+What can this be about?</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+We must find out.</p></sp> 
+ 
+<sp><speaker>DONNA ELVIRA</speaker><p> 
+Don't be at all surprised, Don Juan, to see me at this hour and in this attire.  A pressing motive obliges me to make this visit, and what I have to say to you allows of no delay.  I am no longer full of the blinding rage that I so lately displayed, and you see me quite changed from what I was this morning.  It is no longer the Donna Elvira that threatened you, the Donna Elvira whose irritated soul did nothing but breathe revenge and cast menaces.  Heaven has banished from my soul all the remarkable ardors that I felt for you, all the tumultuous transports of a criminal attachment, all the shameful sentiments of a gross and terrestrial love; and it has left for you in my heart only a flame purged of all the commerce of the senses, a holy tenderness, a detached love, which does not act at all for itself, but only troubles itself in your interest.</p></sp> 
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">to Sganarelle.</stage> 
+    <p>You're crying, I believe.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Forgive me.</p></sp> 
+ 
+<sp><speaker>DONNA ELVIRA</speaker><p> 
+It is this perfect and pure love that leads me here for your good, to share with you a warning from Heaven, and to encourage you to retire from the precipice towards which you are running.  Yes, Don Juan, I know the unbridled conduct of your life, and this same Heaven, which has touched my heart and made me scrutinize the errors of my ways, has inspired me to seek you out, and to say to you on its behalf that your offenses have exhausted its mercies, that its formidable wrath is ready to fall on you, and that it is still  in you to avoid it by a prompt repentance, but that you may not even have one day to avoid this greatest of all evils.  For myself, I no longer hold to you through any worldly attachment.  I have come back, thanks to Heaven, from all my foolish thoughts; my retreat is resolved, and all I ask of life is to expiate the error that I've made, and to merit, by an austere penitence, a pardon for the blindness into which the transports of a guilty passion had plunged me.  But in this retreat, I would feel the burden of an extreme sadness were a person whom I loved so dearly to become a fatal example of Heaven's justice; and it would be a great joy to me if I could lead you to avert your head from the terrible and imminent blow that menaces you.  Please, Don Juan, accord me, as a final favor, this sweet consolation; do not refuse me your happiness, which I demand with these tears; and if your own interest does not touch you at all, at least be touched by my prayers, and spare me the cruel unhappiness of seeing you condemned to eternal tortures.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+How she suffers!</p></sp> 
+ 
+<sp><speaker>DONNA ELVIRA</speaker><p> 
+I loved you, Don Juan, with extreme tenderness, and nothing in the world was dearer to me than you.  For you, I abandoned my duty, for you, I did everything; and all the recompense that I ask of you, is to correct your life, and avert your eternal loss.  Save yourself, I beg you, either from love of yourself, or for love of me.  Yet once again, Don Juan, I ask you with tears; and if the tears of a person you once loved are not enough, I beg you to do this by whatever is most able to touch you.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Heart of a tiger!</p></sp> 
+ 
+<sp><speaker>DONNA ELVIRA</speaker><p> 
+I am leaving now, and these words are all I have to say to you.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Madame, it is late, stay here; we will lodge you as best we can.</p></sp> 
+ 
+<sp><speaker>DONNA ELVIRA</speaker><p> 
+No, Don Juan, detain me here me no longer.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Madame, you would do me a pleasure to stay, I assure you.</p></sp> 
+ 
+<sp><speaker>DONNA ELVIRA</speaker><p> 
+No, I tell you, there's no time for needless discussion.  Let me make haste, take no trouble to have me escorted, and please think now only to profit from my advice.</p></sp>
+</div>
+ 
+<div type="scene">
+    <head>SCENE 7</head> 
+    <stage>Don Juan, Sganarelle, Suite</stage> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+You know I think I felt a little glimmer of emotion for her, and even found something rather pleasurable in this new extravagance.  Her careless clothes, languishing air and tears seemed to reawaken in me a few embers of a doused fire.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+In other words, her words had no effect on you.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Let's dine.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+All right.</p></sp> 
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">taking his place at the table.</stage>  
+    <p>However, Sganarelle, we must think about amending our ways.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Yes.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Yes, indeed!  One must amend oneself; another twenty or thirty years of this life, and we'll take it under consideration.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Oh! </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+What do you say to that?</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Nothing.  Here's our dinner.</p></sp> 
+ 
+    <stage type="gesture">He takes a piece of one of the dishes as it is carried in and puts it in his mouth.</stage> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+It seems to me that your cheek is swollen; what is it?  Speak, what's the matter?</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Nothing.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Give us a look.  Egads!  Some flux has stricken your cheek!  Quick, a needle to lance it!  The poor boy can do no more, and this abscess might choke him.  Wait: see how it shrinks.  Ah, knave that you are!</p></sp>   
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+My faith!  Sir, I wanted to see if your cook hadn't put in too much salt or pepper. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+On with it then, sit right here, and eat.  I'll deal with you while I dine.  Evidently, you are hungry.</p></sp> 
+ 
+    <sp><speaker>SGANARELLE</speaker><stage type="gesture">taking a seat at the table.</stage> 
+    <p>Yes, I believe so, Sir: I've had nothing to eat since this morning.  Taste that, it's the best in the world. 
+ 
+        <stage type="gesture">A lackey pulls Sganarelle's plates from where they had been set below him to eat.</stage> 
+ 
+My plate!  My plate!  Not so quickly, please.  Little brother, how skillful you are in giving clean plates!  And you, la Violette, have them pour something appropriate to drink! 
+ 
+ <stage type="gesture">While one lackey gives something to Sganarelle to drink, another again retracts his plate.</stage></p></sp>  
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Who can be knocking like that?</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+What scoundrel has the nerve to come bother us during our meal?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+I would at least like to dine in repose; let no one in to see me.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Let me, I'll get him to shove off.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+What is it then?  What's the matter?</p></sp> 
+ 
+    <sp><speaker>SGANARELLE</speaker><stage type="gesture">lowering his head as the Statue had lowered itself</stage>  
+    <p>The ' it's ' there!</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Let's go see for ourselves, I will prove that nothing rattles me.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Ah!  Poor Sganarelle, where can you hide?</p></sp>
+</div>
+ 
+ 
+<div type="scene">
+    <head>SCENE 8</head> 
+    <stage>Don Juan, the Statue of the Commander, who comes to sit at the table, Sganarelle, Suite</stage> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+    A chair and a place-setting, quickly now.  <stage type="gesture">(To Sganarelle.)</stage> Go on, back to the table. </p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Sir, I've lost my appetite. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Sit down there, I say.  Something to drink.  To the health of the Commander.  I pass it to you, Sganarelle.  Let's give him some wine.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Sir, I am not thirsty.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Drink, and sing a song to regale the Commander.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+I have a cold, Sir.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+That's no excuse.  Go on.  You others, come on, make a chorus.</p></sp> 
+ 
+<sp><speaker>THE STATUE</speaker><p> 
+Don Juan, enough.  I invite you to come dine with me tomorrow.  Are you brave enough for it? </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+I will be there, along with Sganarelle.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Thank you, Sir, but tomorrow is one of my fast days.</p></sp> 
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">to Sganarelle.</stage> 
+    <p>Take this torch.</p></sp> 
+ 
+<sp><speaker>THE STATUE</speaker><p> 
+One has no need of light, when one is led by Heaven.</p></sp>
+</div>
+</div>
+
+<div type="act">
+<head>ACT V </head> 
+    <stage type="setting">A field, not far from the city.</stage> 
+ 
+ 
+    <div type="scene">
+        <head>SCENE 1</head> 
+<stage>Don Louis, Don Juan, Sganarelle </stage>
+ 
+<sp><speaker>DON LOUIS</speaker><p> 
+What?  My son, is it possible that Heaven's goodness has answered my prayers?  Is what you are saying really true?  Are you not just abusing me with some false hope, and can I take any assurance of the surprising novelty of such a conversion?</p></sp> 
+ 
+        <sp><speaker>DON JUAN</speaker><stage type="gesture">playing the hypocrite.</stage>  
+    <p>Yes, I have escaped from all my errors: the man you see is no longer the same as last night, and the sudden change that Heaven has made in me will surprise all the world.  It has touched my soul and opened my eyes, and now I gaze with horror upon my years of blindness and on the criminal disorders of my life.  Revisiting all my abominations in my mind's eye, I was astonished that Heaven could have endured them so long, and that the mighty blows of its justice had not fallen twenty times already upon my head.  I saw the grace which its goodness had given me by not punishing my crimes; and I shall now benefit as I should by letting the world see this sudden change of life, by making reparations for my scandalous past, and in trying to obtain Heaven's full remission.  This is what I strive for; and I pray you, Sir, to contribute to this goal, by yourself choosing a guide for me, under whose counsel I can walk surely along this chosen path.</p></sp> 
+ 
+<sp><speaker>DON LOUIS</speaker><p> 
+Ah!  My son, how easily a father's tenderness is revived, and how easily a son's offenses vanish at the first word of repentance!  All the displeasures you have caused me are forgotten, effaced by the words that you have just spoken. I feel nothing of it, I swear it; I shed tears of joy; all my prayers are answered, and I have nothing else to ask of Heaven.  Embrace me, my son, and persevere, I beg you, in this praiseworthy project.  For myself, I will leave this very moment to bring this happy news to your mother, share with her my sweet transports, and give thanks to Heaven for the holy resolutions with which it has deigned to inspire you.</p></sp>
+    </div>
+ 
+ 
+<div type="scene">
+    <head>SCENE 2</head> 
+    <stage>Don Juan, Sganarelle.</stage> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Ah!  Sir, you are converted!  You are converted!  I have waited a very long time for this, and now, thanks to Heaven, all my wishes are fulfilled.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Fool that you are!</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+What do you mean, fool?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+What?  You take what I just said for good money, and believe that my mouth was in accord with my heart?</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+What?  It wasn't ' You didn't '. Your ' Oh!  What a man!  What a man!</p></sp>  
+ 
+<sp><speaker>DON JUAN</speaker><p> No, no, I have not changed a bit, and my sentiments have always been the same.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+So you didn't find yourself overwhelmed by the startling marvel of the Statue that moved and spoke?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+I admit there was something in it that I don't understand; but it was still not powerful enough to either convince my mind or shake my soul; and if you heard me say that I would amend my conduct and embark on an exemplary life, it was a design formed out of pure policy, a useful stratagem, a necessary grimace that I adopted in order to manage a father of whom I have need, and to protect myself, in the eyes of men, from a hundred irritating adventures which might arise.  But I am really glad, Sganarelle, that I can confide in you, and I am happy that my soul has a witness to the real motives which oblige me to do the things I do.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+What?  Though you don't believe in anything at all, you would take the pose of a pious man?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+And why not?  There are many who take up this trade, and adopt the same mask for fooling the world.</p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Ah!  What a man!  What a man!</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+There's no longer any shame in it: hypocrisy is a fashionable vice, and all fashionable vices pass for virtues.  A pious man is the best of all roles that one can play today, for the hypocritical profession has marvelous advantages.  It is an art whose imposture is always respected: and even if the imposture is discovered, one dares say nothing against it.  All other vices are prone to censure, and everyone has the liberty to attack them in a high tone; but hypocrisy is a privileged vice, which, with its finger, closes the mouth of everyone, and plays its game in peace with a sovereign impunity.  By force of long faces, one forges a tight society from men of like mind.  What shocks one of their number, sends all to arms; and those that are acting in good faith, and that one knows to be truly touched, these, I say, are always the dupes of the others; they fill the baskets of the grimacers with generous offerings and blindly support what they fail to recognize as mimicries.  Do you not think that I know many men who have nimbly redressed their unfettered youths by this stratagem, who have made for themselves a shield from the coat of religion, and who, under this respectable garment, are still permitted to be the worst of men?  It is vain to know them for what they are, because despite all, they are no less in credit among men; and the lowering of the head, a mortified sigh, and two grievous rolls of the eyes, serve to satisfy the world with what they do.  It is under this favorable shelter that I would save myself and secure my affairs.  I have no intention of quitting my sweet habits; but I will be careful to conceal myself and divert myself with but little sound.  And if by chance I am discovered, I will covertly take my interests to the cabal, who will then defend me against all comers. This is the true way to do with impunity all that one wants.  I will establish myself as a censor of others, judge badly of all, and have a good opinion of none but myself.  Let someone once cross me, however little, and I will never pardon him but will rather quietly send him the gifts of an inveterate hate.  I will present myself as the avenger of Heaven's interests, and under this pretext, I will rebut my enemies, accuse them of impiety, and unleash against them some indiscrete zealots, who, without knowing why, will decry them publicly, overwhelm them with injuries, and damn them loudly from their personal authority.  This is how one must profit from the weakness of men, and how a wise mind will sagely adopt the vices of the age.</p></sp>   
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Heavens!  Am I hearing this?  All you lacked before to perfect your arsenal was this hypocrisy!  And presto! Here it is: the acme of abominations.  Sir, this latest manner is just insufferable and I can no longer bite my tongue.  Do to me what you will, beat me, knock me senseless, kill me, if you wish: but I must air out my heart, and as a faithful valet I must tell you what I should.  Know, Sir, that the more times a jug goes to the well, at last it will break; and as the author says so well, though I don't know who it was, that man is in this world as the bird is on the branch; the branch is attached to the tree; what attaches itself to the tree follows from good precepts; good precepts are worth more than fine words; fine words are found at the court; at the court are courtiers; courtiers follow fashion; fashion comes from fantasy; fantasy is a faculty of the soul; the soul is what gives us life; life ends in death; death makes us think of Heaven; Heaven is above the earth; the earth is not the sea; the sea is subject to storms; storms torment ships; ships need a good pilot; a good pilot is cautious; caution is not a quality of young men; young men owe obedience to their elders; the elders love riches; riches make the rich; the rich are not poor; the poor live in need; need has no law; what has no law is brute bestiality; and as a consequence, you will be damned by all the devils. 
+</p></sp>
+    
+<sp><speaker>DON JUAN</speaker><p> 
+You are, Sganarelle, without doubt, the master of argument.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+And if, after that, you refuse to recognize the reason of Heaven, all the worse for you.</p></sp>
+</div>
+ 
+<div type="scene">
+<head>SCENE 3</head> 
+    <stage>Don Carlos, Don Juan, Sganarelle.</stage> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+Don Juan, you are well-met, and I am glad to speak with you here rather than at your home, to ask you your resolutions.  You know that this is my direct concern, for in your presence I had charged myself personally with this affair.  For myself, I hide nothing, and strongly wish that things go peacefully; and there is nothing I would not do to persuade you to prefer this path as well, and see you publicly confirm my sister as your wife.</p></sp> 
+ 
+    <sp><speaker>DON JUAN</speaker><stage type="gesture">in a hypocritical tone.</stage> 
+    <p>Alas!  I would like, truly, with all my heart, to give you the satisfaction you wish; but Heaven directly opposes it; it has inspired in my soul the design of changing my life, and I have no other thought now than to quit entirely all worldly attachments, to rid myself at the first opportunity of all vanities, and to correct by adherence to an austere conduct all the criminal excesses of my blind and burning youth.</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+This design, Don Juan, in no way changes what I said; and the company of a legitimate wife can comport well with the laudable thoughts with which Heaven has inspired you. </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Sadly!  Not at all.  It is a design that your sister herself has taken: she has vowed to take her retreat from the world, and we were both touched at the same time.</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+Her retreat can not satisfy us as it can be imputed to the disdain that you demonstrated both to her and to our family.  Our honor demands that she live with you.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+I assure you this cannot be.  I wish it, for myself, with all the wishes in the world, and today I even took counsel with Heaven about it; but, when I consulted it, a voice told me that I should not at all think about your sister, and that it was assuredly not with her that I would find my salvation.</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+Do you think, Don Juan, that you can dazzle us with these vain excuses? </p></sp>
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+I obey the voice of Heaven.</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+What?  You expect me to be satisfied with such words?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+It is Heaven that wishes it so.</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+You lured my sister from the convent, only to forsake her?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Heaven ordained this fate.</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+And we should endure this stain on our family?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Appeal to Heaven.</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+What?  Why always Heaven?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Heaven wishes it so.</p></sp> 
+ 
+<sp><speaker>DON CARLOS</speaker><p> 
+Enough, Don Juan, enough.  I understand you.  I will not take my revenge here, and this place shall not see it; but fear not, in a very short time, I will come find you.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+You will do what you will; you know I do not lack for courage, and that I know how to use my sword when needed.  I will soon start on this small side road which leads to the cloister; but I declare to you, for myself, that it is not me you would fight. Heaven has forbidden me this thought, but if you attack me, we will see what the outcome shall be.</p></sp> 
+</div>
+
+<div type="scene">
+    <head>SCENE 4</head> 
+    <stage>Don Juan, Sganarelle.</stage> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Sir, what style are you taking now?  This is even worse than all the others, and I would much rather see you as you were before.  I had always hoped for your salvation; but now I must despair of it; and I believe that Heaven, which has put up with you until now, will not at all stand for this most recent horror.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Come on, now, Heaven is not as exacting as you think; and if all the faith that men</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Ah!  Sir, it is Heaven that speaks to you, and that is giving you advice.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+If Heaven is giving me advice, it should speak more clearly if it wants me to hear. </p></sp>
+</div>
+ 
+<div type="scene">
+<head>SCENE 5</head> 
+    <stage>Don Juan, a Ghost, as a veiled woman, Sganarelle.</stage> 
+ 
+    <sp><speaker>GHOST</speaker><p> 
+Don Juan does not have more than a moment to benefit from the mercy of Heaven; and if he does not repent now, his perdition is certain.</p></sp>
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Do you hear, Sir?</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Who dares to say this?  I believe I know this voice.</p></sp> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Ah!  Sir, it is a ghost: I recognize it by its walk.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Ghost, phantom, or devil, I want to see what it is.</p></sp> 
+
+ 
+    <stage type="gesture">The Ghost shifts shape and becomes the figure of Time, a scythe in one hand.</stage> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+O, Heaven!  Do you see, Sir, how it changed shape!</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+No, nothing strikes me with terror, and by my sword I will test whether it is a body or a spirit.</p></sp> 
+ 
+    <stage type="gesture">The Ghost flees before Don Juan can strike it.</stage> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Ah!  Sir, humble yourself before such proofs, and throw yourself quickly into repentance.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+No, no, it will never be said, whatever happens, that I repented.  Now, follow me.</p></sp>
+</div>
+ 
+<div type="scene">
+<head>SCENE 6</head>
+    <stage>The Statue, Don Juan, Sganarelle</stage> 
+ 
+<sp><speaker>THE STATUE</speaker><p> 
+Halt, Don Juan; yesterday you gave your word to come dine with me.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+Yes.  Where to? </p></sp>
+ 
+<sp><speaker>THE STATUE</speaker><p> 
+Give me your hand.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+There. </p></sp>
+ 
+<sp><speaker>THE STATUE</speaker><p> 
+Don Juan, the hardening to a life of sin leads to a dismal death, and to reject the grace of Heaven is to open a path to its lightning-bolts.</p></sp> 
+ 
+<sp><speaker>DON JUAN</speaker><p> 
+O Heaven!  What do I feel?  An invisible fire burns me, I can move no more, and my whole body is turning to a glowing coal.  Ah!</p></sp> 
+ 
+ 
+    <stage type="gesture">Thunder resounds and great lightning-bolts surround Don Juan; the earth opens and takes him; and he exits in the great flames burning where he has fallen.</stage> 
+ 
+<sp><speaker>SGANARELLE</speaker><p> 
+Ah!  My pay!  My pay!  Look at that, everyone satisfied with his death!  Offended Heaven, violated laws, seduced daughters, dishonored families, outraged relatives, mistreated women, husbands pushed to the limit, everyone is content: no one is miserable but me, who, after so many years of service, have no other gratification than to see with my own eyes the impiety of my master chastised by the most horrible punishment in the world.  My pay!  My pay!  My pay!
+</p></sp>
+</div>
+</div>
+</body>
+</text>
+ 
+
